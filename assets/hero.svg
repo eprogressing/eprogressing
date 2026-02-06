@@ -1,0 +1,332 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Hello, I'm eprogressing">
+  <defs>
+    <linearGradient id="skyGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B0F24"/>
+      <stop offset="42%" stop-color="#1B1340"/>
+      <stop offset="72%" stop-color="#6D1B66" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#FF8A3D" stop-opacity="0.92"/>
+    </linearGradient>
+
+    <radialGradient id="midHaze" cx="52%" cy="54%" r="52%">
+      <stop offset="0%" stop-color="#8B2A78" stop-opacity="0.28"/>
+      <stop offset="48%" stop-color="#9E599B" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#8B2A78" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="sunsetGlow" cx="78%" cy="96%" r="54%">
+      <stop offset="0%" stop-color="#FFB86B" stop-opacity="0.70"/>
+      <stop offset="40%" stop-color="#FF8A3D" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#FF8A3D" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="planetMain" cx="33%" cy="28%" r="78%">
+      <stop offset="0%" stop-color="#FFD8A3"/>
+      <stop offset="57%" stop-color="#FFB86B"/>
+      <stop offset="100%" stop-color="#C6632A"/>
+    </radialGradient>
+
+    <linearGradient id="planetRimLight" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF2D6" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#FFF2D6" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="coatRim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#A8BF9F" stop-opacity="0.62"/>
+      <stop offset="100%" stop-color="#A8BF9F" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="scarfGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7D3B"/>
+      <stop offset="100%" stop-color="#FFB86B"/>
+    </linearGradient>
+
+    <linearGradient id="shootingTrailA" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD27D" stop-opacity="0.82"/>
+      <stop offset="100%" stop-color="#FFD27D" stop-opacity="0"/>
+    </linearGradient>
+
+    <linearGradient id="shootingTrailB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF9A4A" stop-opacity="0.78"/>
+      <stop offset="100%" stop-color="#FF9A4A" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Vignette gradient -->
+    <radialGradient id="vignetteGrad" cx="50%" cy="45%" r="78%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="65%" stop-color="#000000" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.35"/>
+    </radialGradient>
+
+    <!-- Soft glow filter for the light band -->
+    <filter id="softBandBlur" x="-40%" y="-200%" width="180%" height="500%">
+      <feGaussianBlur stdDeviation="18" result="b"/>
+      <feColorMatrix in="b" type="matrix"
+        values="1 0 0 0 0.90
+                0 1 0 0 0.70
+                0 0 1 0 0.40
+                0 0 0 0.35 0" result="c"/>
+      <feMerge>
+        <feMergeNode in="c"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softBlur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+
+    <filter id="textGlow" x="-30%" y="-30%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="bangGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feColorMatrix in="b" type="matrix"
+        values="1 0 0 0 0
+                0 1 0 0 0
+                0 0 1 0 0
+                0 0 0 0.65 0" result="c"/>
+      <feMerge>
+        <feMergeNode in="c"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="planetShadow" x="-45%" y="-45%" width="190%" height="190%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+
+    <filter id="roseGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.4"/>
+    </filter>
+
+    <filter id="roseContactBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="0.75"/>
+    </filter>
+
+    <pattern id="grainPattern" width="140" height="140" patternUnits="userSpaceOnUse">
+      <rect width="140" height="140" fill="transparent"/>
+      <circle cx="6" cy="14" r="1" fill="#fff" fill-opacity="0.12"/>
+      <circle cx="22" cy="34" r="1" fill="#000" fill-opacity="0.14"/>
+      <circle cx="41" cy="11" r="1" fill="#fff" fill-opacity="0.08"/>
+      <circle cx="56" cy="38" r="1" fill="#000" fill-opacity="0.12"/>
+      <circle cx="77" cy="26" r="1" fill="#fff" fill-opacity="0.11"/>
+      <circle cx="98" cy="16" r="1" fill="#000" fill-opacity="0.10"/>
+      <circle cx="124" cy="31" r="1" fill="#fff" fill-opacity="0.10"/>
+      <circle cx="18" cy="63" r="1" fill="#fff" fill-opacity="0.10"/>
+      <circle cx="33" cy="84" r="1" fill="#000" fill-opacity="0.12"/>
+      <circle cx="52" cy="67" r="1" fill="#fff" fill-opacity="0.12"/>
+      <circle cx="72" cy="78" r="1" fill="#000" fill-opacity="0.11"/>
+      <circle cx="95" cy="62" r="1" fill="#fff" fill-opacity="0.09"/>
+      <circle cx="118" cy="85" r="1" fill="#000" fill-opacity="0.10"/>
+      <circle cx="131" cy="66" r="1" fill="#fff" fill-opacity="0.09"/>
+      <circle cx="10" cy="112" r="1" fill="#000" fill-opacity="0.10"/>
+      <circle cx="28" cy="129" r="1" fill="#fff" fill-opacity="0.10"/>
+      <circle cx="49" cy="108" r="1" fill="#000" fill-opacity="0.10"/>
+      <circle cx="68" cy="128" r="1" fill="#fff" fill-opacity="0.10"/>
+      <circle cx="90" cy="114" r="1" fill="#000" fill-opacity="0.12"/>
+      <circle cx="113" cy="132" r="1" fill="#fff" fill-opacity="0.08"/>
+      <circle cx="132" cy="109" r="1" fill="#000" fill-opacity="0.09"/>
+    </pattern>
+  </defs>
+
+  <g id="background">
+    <rect x="0" y="0" width="1200" height="460" fill="url(#skyGradient)"/>
+    <rect x="0" y="0" width="1200" height="460" fill="url(#midHaze)"/>
+    <rect x="0" y="0" width="1200" height="460" fill="url(#sunsetGlow)"/>
+
+    <g id="bokeh" filter="url(#softBlur)">
+      <ellipse cx="186" cy="96" rx="160" ry="116" fill="#6A40B8" fill-opacity="0.16"/>
+      <ellipse cx="468" cy="172" rx="150" ry="112" fill="#8B2A78" fill-opacity="0.14"/>
+      <ellipse cx="858" cy="214" rx="244" ry="164" fill="#FF8A3D" fill-opacity="0.18"/>
+    </g>
+
+    <g id="hazeBands" opacity="0.86">
+      <path d="M0 306C186 274 360 340 554 314C770 286 982 358 1200 304V460H0Z" fill="#582D84" fill-opacity="0.26"/>
+      <path d="M0 334C212 304 394 370 618 334C830 302 1012 376 1200 332V460H0Z" fill="#FF8A3D" fill-opacity="0.18"/>
+      <path d="M0 360C194 332 382 396 630 362C842 332 1030 398 1200 356V460H0Z" fill="#FFCF80" fill-opacity="0.12"/>
+    </g>
+
+    <g id="miniPlanets">
+      <g transform="translate(166 86)">
+        <circle r="15" fill="#FFD27D"/>
+        <path d="M-13 2C-5-2 6-2 13 2" stroke="#FFB86B" stroke-width="1.8" fill="none" opacity="0.72"/>
+      </g>
+      <g transform="translate(286 124)">
+        <circle r="14" fill="#6ED1A4"/>
+        <path d="M-12 1C-4 4 4 4 12 1" stroke="#FFF2D6" stroke-width="1.8" fill="none" opacity="0.55"/>
+      </g>
+      <g transform="translate(464 84)">
+        <circle r="11" fill="#93C0FF" fill-opacity="0.9"/>
+      </g>
+      <g transform="translate(692 112)">
+        <circle r="17" fill="#FFB86B" fill-opacity="0.93"/>
+        <path d="M-15 -3C-7-8 7-8 15-3" stroke="#FFF2D6" stroke-width="1.8" fill="none" opacity="0.46"/>
+        <path d="M-13 4C-4 10 5 10 13 4" stroke="#FF8A3D" stroke-width="1.8" fill="none" opacity="0.52"/>
+      </g>
+      <g transform="translate(1040 136)">
+        <circle r="14" fill="#FFE8B6" fill-opacity="0.9"/>
+        <path d="M-12 1C-5-2 5-2 12 1" stroke="#FFB86B" stroke-width="1.5" fill="none" opacity="0.54"/>
+      </g>
+    </g>
+
+    <g id="stars" fill="#FFF2D6">
+      <circle cx="78" cy="62" r="1.5" opacity="0.45"><animate attributeName="opacity" values="0.2;0.95;0.2" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="118" cy="114" r="1.2" opacity="0.34"><animate attributeName="opacity" values="0.15;0.72;0.15" dur="5.6s" repeatCount="indefinite"/></circle>
+      <circle cx="214" cy="66" r="1.7" opacity="0.52"><animate attributeName="opacity" values="0.15;1;0.15" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="342" cy="58" r="1.2" opacity="0.36"><animate attributeName="opacity" values="0.2;0.72;0.2" dur="4.3s" repeatCount="indefinite"/></circle>
+      <circle cx="412" cy="128" r="1.5" opacity="0.44"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="506" cy="66" r="1.4" opacity="0.4"><animate attributeName="opacity" values="0.2;0.84;0.2" dur="4.1s" repeatCount="indefinite"/></circle>
+      <circle cx="606" cy="102" r="1.3" opacity="0.42"><animate attributeName="opacity" values="0.2;0.78;0.2" dur="3.8s" repeatCount="indefinite"/></circle>
+      <circle cx="744" cy="64" r="1.5" opacity="0.5"><animate attributeName="opacity" values="0.2;0.92;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="846" cy="110" r="1.2" opacity="0.34"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="4.6s" repeatCount="indefinite"/></circle>
+      <circle cx="928" cy="70" r="1.7" opacity="0.48"><animate attributeName="opacity" values="0.15;0.93;0.15" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="1018" cy="104" r="1.3" opacity="0.36"><animate attributeName="opacity" values="0.15;0.76;0.15" dur="4.7s" repeatCount="indefinite"/></circle>
+      <circle cx="1110" cy="84" r="1.4" opacity="0.4"><animate attributeName="opacity" values="0.2;0.86;0.2" dur="3.7s" repeatCount="indefinite"/></circle>
+      <circle cx="1160" cy="130" r="1.2" opacity="0.32"><animate attributeName="opacity" values="0.2;0.7;0.2" dur="4.7s" repeatCount="indefinite"/></circle>
+      <circle cx="154" cy="184" r="1.2" opacity="0.32"><animate attributeName="opacity" values="0.2;0.68;0.2" dur="4.3s" repeatCount="indefinite"/></circle>
+      <circle cx="268" cy="162" r="1.4" opacity="0.38"><animate attributeName="opacity" values="0.2;0.82;0.2" dur="3.9s" repeatCount="indefinite"/></circle>
+      <circle cx="448" cy="174" r="1.3" opacity="0.35"><animate attributeName="opacity" values="0.2;0.73;0.2" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="682" cy="170" r="1.4" opacity="0.36"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.6s" repeatCount="indefinite"/></circle>
+      <circle cx="864" cy="168" r="1.5" opacity="0.4"><animate attributeName="opacity" values="0.2;0.88;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="1044" cy="172" r="1.3" opacity="0.35"><animate attributeName="opacity" values="0.2;0.74;0.2" dur="4.2s" repeatCount="indefinite"/></circle>
+      <circle cx="1128" cy="196" r="1.2" opacity="0.3"><animate attributeName="opacity" values="0.2;0.67;0.2" dur="4.9s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <g id="titleSparkles" stroke="#FFF2D6" stroke-linecap="round" opacity="0.5">
+      <g transform="translate(520 176)">
+        <line x1="0" y1="-5" x2="0" y2="5" stroke-width="1.2"/>
+        <line x1="-5" y1="0" x2="5" y2="0" stroke-width="1.2"/>
+      </g>
+      <g transform="translate(560 204)">
+        <line x1="0" y1="-4" x2="0" y2="4" stroke-width="1.1"/>
+        <line x1="-4" y1="0" x2="4" y2="0" stroke-width="1.1"/>
+      </g>
+      <g transform="translate(492 220)">
+        <line x1="0" y1="-3" x2="0" y2="3" stroke-width="1"/>
+        <line x1="-3" y1="0" x2="3" y2="0" stroke-width="1"/>
+      </g>
+    </g>
+
+      <g id="shootingStars" stroke-linecap="round">
+        <line x1="984" y1="60" x2="1094" y2="-34" stroke="url(#shootingTrailA)" stroke-width="3" opacity="0.28"/>
+        <line x1="734" y1="234" x2="846" y2="128" stroke="url(#shootingTrailB)" stroke-width="2.8" opacity="0.22"/>
+        <g id="shootingStarOccasional" opacity="0">
+          <line x1="1118" y1="42" x2="1044" y2="104" stroke="url(#shootingTrailA)" stroke-width="2" opacity="0.6">
+            <animate attributeName="x1" values="1118;1118;1034;1034" keyTimes="0;0.65;0.75;1" dur="7s" begin="1.5s" repeatCount="indefinite"/>
+            <animate attributeName="y1" values="42;42;96;96" keyTimes="0;0.65;0.75;1" dur="7s" begin="1.5s" repeatCount="indefinite"/>
+            <animate attributeName="x2" values="1044;1044;960;960" keyTimes="0;0.65;0.75;1" dur="7s" begin="1.5s" repeatCount="indefinite"/>
+            <animate attributeName="y2" values="104;104;158;158" keyTimes="0;0.65;0.75;1" dur="7s" begin="1.5s" repeatCount="indefinite"/>
+          </line>
+          <circle cx="1118" cy="42" r="1.8" fill="#FFF2D6" opacity="0.65">
+            <animate attributeName="cx" values="1118;1118;1034;1034" keyTimes="0;0.65;0.75;1" dur="7s" begin="1.5s" repeatCount="indefinite"/>
+            <animate attributeName="cy" values="42;42;96;96" keyTimes="0;0.65;0.75;1" dur="7s" begin="1.5s" repeatCount="indefinite"/>
+          </circle>
+          <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.65;0.75;1" dur="7s" begin="1.5s" repeatCount="indefinite"/>
+        </g>
+      </g>
+
+    <g id="foxEasterEgg" transform="translate(742 338)" opacity="0.16">
+      <path d="M0 0L7-5L13 0L19 -2L15 5L10 5L7 8L3 4Z" fill="#1A102A"/>
+    </g>
+
+    <rect x="0" y="0" width="1200" height="460" fill="url(#grainPattern)" opacity="0.08"/>
+
+    <rect x="0" y="0" width="1200" height="460" fill="url(#vignetteGrad)"/>
+  </g>
+
+  <g id="titleLightBand" opacity="0.55" filter="url(#softBandBlur)">
+    <ellipse cx="400" cy="174" rx="338" ry="34" fill="#FFD27D" opacity="0.20"/>
+    <ellipse cx="402" cy="182" rx="284" ry="26" fill="#FFB86B" opacity="0.16"/>
+  </g>
+
+  <g id="textLayer">
+    <text id="titleText" x="86" y="182" fill="#FFF2D6" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="0.6" filter="url(#textGlow)">
+      <tspan>Hello, I'm </tspan><tspan>eprogressing</tspan><tspan id="titleBang" fill="#FF3B30" filter="url(#bangGlow)">!<animate attributeName="opacity" values="0.72;1;0.72" dur="3.0s" repeatCount="indefinite"/></tspan>
+    </text>
+    <text x="90" y="238" fill="#FFE8B6" fill-opacity="0.94" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif" font-size="25" font-weight="600">Welcome to my tiny planet ✨</text>
+    <g id="credoQuote" transform="translate(94 272)">
+      <rect x="14" y="-10" width="596" height="86" rx="10" fill="#0B0F24" opacity="0.085"/>
+      <line x1="0" y1="-4" x2="0" y2="58" stroke="#FFF2D6" stroke-width="2" opacity="0.26"/>
+      <path d="M10 2 L12 8 L18 10 L12 12 L10 18 L8 12 L2 10 L8 8 Z" fill="#FFF2D6" opacity="0.20"/>
+      <text x="22" y="12" font-family='ui-serif, Georgia, "Times New Roman", Times, serif' font-size="19" font-style="italic" fill="#FFF2D6" opacity="0.86" letter-spacing="0.3">
+        <tspan x="22" dy="0">“It is only with the heart that one can see rightly;</tspan>
+        <tspan x="22" dy="22">what is essential is invisible to the eye.”</tspan>
+      </text>
+      <text x="22" y="66" font-family='ui-serif, Georgia, "Times New Roman", Times, serif' font-size="16" font-style="italic" fill="#FFE8B6" opacity="0.78" letter-spacing="0.25">
+        <tspan>— looking for bugs &amp; truth.</tspan>
+      </text>
+    </g>
+  </g>
+
+  <g id="storyIllustration" transform="translate(928 286) scale(1.09)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4s" repeatCount="indefinite"/>
+
+      <ellipse cx="0" cy="116" rx="102" ry="19" fill="#000" fill-opacity="0.19" filter="url(#planetShadow)"/>
+
+      <circle cx="0" cy="12" r="90" fill="url(#planetMain)"/>
+      <ellipse cx="-30" cy="-20" rx="28" ry="20" fill="#FFF2D6" fill-opacity="0.16"/>
+      <path d="M-74 36C-20 10 40 12 82 34" stroke="#A44E24" stroke-opacity="0.24" stroke-width="8" fill="none"/>
+      <path d="M-70 -8C-18 -30 50 -16 84 10" stroke="url(#planetRimLight)" stroke-width="5" fill="none"/>
+      <path d="M-82 18C-46 2 46 2 84 18" stroke="#FFF2D6" stroke-opacity="0.18" stroke-width="4" fill="none"/>
+
+      <g id="princeWrap" transform="translate(-30 -14) scale(0.86 1.04)">
+        <g id="prince" transform="translate(0 0)">
+          <ellipse cx="0.5" cy="48.5" rx="14" ry="4.8" fill="#7C3C24" fill-opacity="0.2"/>
+
+          <path d="M-6 20L-4 49L0 49L1 20Z" fill="#594232"/>
+          <path d="M2 20L3 49L7 49L8 20Z" fill="#654A36"/>
+          <rect x="-6" y="47" width="6" height="3" rx="1.5" fill="#3B2A1E"/>
+          <rect x="3" y="47" width="6" height="3" rx="1.5" fill="#3B2A1E"/>
+
+          <path d="M-13 -15C-14 -3-13 15-10 30C-6 34 2 34 7 30C10 16 11 -2 10 -15C7 -13 4 -12 0 -12C-4 -12-8 -13-13 -15Z" fill="#5D785D"/>
+          <path d="M-12 -14C-11 -4-10 11-8 24C-4 27 2 27 5 24C8 11 8 -2 8 -12C5 -11 2 -10 0 -10C-3 -10-7 -12-12 -14Z" fill="#4E6650" opacity="0.58"/>
+          <path d="M-12 -14C-11 -8-10 -1-10 10" stroke="#93AA8A" stroke-width="1.2" opacity="0.5"/>
+          <path d="M0 -10C0 -2 1 8 1 17" stroke="#93AA8A" stroke-width="1.1" opacity="0.44"/>
+          <path d="M9 -13C8 -6 8 2 9 12" stroke="#93AA8A" stroke-width="1.2" opacity="0.44"/>
+          <path d="M-13 -14C-7 -8 3 -8 10 -14" stroke="url(#coatRim)" stroke-width="1.8" fill="none"/>
+          <rect x="-7.2" y="10.5" width="14.4" height="2.6" rx="1.3" fill="#9D3D35" opacity="0.65"/>
+
+          <rect x="-2.4" y="-20.5" width="4.8" height="5.2" rx="2.2" fill="#E1B28C"/>
+
+          <ellipse cx="0" cy="-29.2" rx="8.5" ry="9.2" fill="#E1B28C"/>
+          <path d="M-10 -31L-14 -27L-9 -26L-12 -21L-6 -22L-6 -16L-1 -19L3 -15L5 -20L10 -17L8 -23L13 -22L10 -26L14 -30L8 -30L8 -35L3 -32L0 -37L-3 -32L-8 -35L-8 -30Z" fill="#C77842"/>
+          <path d="M-8 -32C-4 -36 4 -36 8 -30C8 -28 7 -27 5 -26C1 -27-3 -27-6 -24C-8 -26-9 -28-8 -32Z" fill="#8E5B3B" opacity="0.58"/>
+
+          <g id="scarf" transform="translate(0 -14)">
+            <animateTransform attributeName="transform" additive="sum" type="translate" values="0 0;2 0;0 0" dur="4.3s" repeatCount="indefinite"/>
+            <path d="M-7 -3C-4 -5 3 -5 7 -3C7 -1 5 1 2 1C-2 2-5 1-7 0C-8 -1-8 -2-7 -3Z" fill="url(#scarfGradient)"/>
+            <path d="M-7 0C-24 1-40 -4-62 -17C-60 -21-54 -26-49 -28C-33 -19-20 -14-7 -13C-5 -9-5 -4-7 0Z" fill="url(#scarfGradient)">
+              <animateTransform attributeName="transform" type="rotate" values="0 -7 -2;2.2 -7 -2;0 -7 -2;-1.6 -7 -2;0 -7 -2" dur="4s" repeatCount="indefinite"/>
+            </path>
+            <path d="M-8 2C-20 4-34 2-46 -5C-44 -8-41 -11-37 -13C-28 -8-19 -7-8 -7C-7 -5-7 -1-8 2Z" fill="#FF9A4A" opacity="0.62">
+              <animateTransform attributeName="transform" type="rotate" values="0 -8 -1;-1.8 -8 -1;0 -8 -1;1.2 -8 -1;0 -8 -1" dur="4s" repeatCount="indefinite"/>
+            </path>
+          </g>
+        </g>
+      </g>
+
+      <g id="roseAnchor" transform="translate(61 8)">
+        <g id="rose">
+          <animateTransform attributeName="transform" type="rotate" values="-2.5 0 27;2.5 0 27;-2.5 0 27" dur="4.8s" repeatCount="indefinite"/>
+          <g transform="scale(1.04)">
+            <ellipse id="roseContactShadow" cx="0.2" cy="27" rx="5.2" ry="1.4" fill="#000000" opacity="0.18" filter="url(#roseContactBlur)"/>
+            <path d="M0 0C-0.35 8.2-0.35 17.5 0.18 27" stroke="#34d399" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+            <path d="M0 10L-3.4 7.6" stroke="#34d399" stroke-width="0.95" fill="none" stroke-linecap="round"/>
+            <circle cx="-1.2" cy="-4.2" r="3.05" fill="#ff3d7f"/>
+            <circle cx="1.55" cy="-5.35" r="2.65" fill="#ff6b9a"/>
+            <circle cx="0.16" cy="-7.3" r="2.2" fill="#ff4f8b"/>
+            <circle cx="6.9" cy="-3" r="2.5" fill="#FFF2D6" opacity="0" filter="url(#roseGlow)">
+              <animate attributeName="opacity" values="0.0;0.55;0.1;0.65;0.0" dur="3.6s" repeatCount="indefinite"/>
+            </circle>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
