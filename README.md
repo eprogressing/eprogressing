@@ -33,6 +33,10 @@ I work on **efficient AI systems**, with interests in LLM inference and serving,
 
 [More projects and research →](https://www.jingmingliang2004.com/#-projects-and-research)
 
+### Open-source contributions
+
+I contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**, with merged Linux syscall compatibility fixes covering [seccomp validation](https://github.com/rcore-os/tgoskits/pull/2043), [CPU affinity ABI](https://github.com/rcore-os/tgoskits/pull/2045), and [ptrace request width](https://github.com/rcore-os/tgoskits/pull/2054).
+
 ### Beyond research
 
 I share CS and AI learning resources, and enjoy music, marathon running, and independent travel.
