@@ -18,3 +18,7 @@ This repository supplies the profile README for [eprogressing](https://github.co
 4. Check the cover, badges, and award cards in both light and dark mode.
 
 GitHub controls the profile's available width and Markdown rendering. An introduction that fits on one desktop line will wrap on narrower screens. Prefer short, readable text and verify the actual GitHub page after publishing.
+
+## Editing a Shields badge
+
+In a Shields.io badge URL, the label, message, and color form the `/badge/` path. Keep `style=for-the-badge` consistent within each row. When writing a URL inside an HTML attribute in the README, encode query separators as `&amp;`. To change where a badge opens, edit its surrounding `<a href="...">` rather than the image URL.
