@@ -1,45 +1,42 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Hello, I'm Jingming Liang!" width="100%" />
+  <img src="assets/hero.svg" alt="Hello, I'm Jingming Liang. Welcome to my tiny planet — a Little Prince illustration with stars, a rose, and a terminal." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.jingmingliang2004.com/">Website</a> ·
-  <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf">CV</a> ·
-  <a href="https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm">Lab profile</a> ·
-  <a href="mailto:2312632@mail.nankai.edu.cn">Email</a>
+  <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-8B4A6B?style=for-the-badge&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
+  <a href="https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm"><img src="https://img.shields.io/badge/NBJL_Lab-65518F?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="NBJL Lab" /></a>
+  <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf"><img src="https://img.shields.io/badge/CV-A45F32?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
+  <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-405675?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
-### About me
+## Exploring efficient AI systems.
 
-I'm **Jingming Liang**, a final-year Computer Science undergraduate at **Nankai University** and an incoming PhD student at the **[Nankai–Baidu Joint Lab](https://nbjl.nankai.edu.cn/)**, starting in 2027.
+I'm **Jingming Liang**, a CS undergraduate at **Nankai University** and an **incoming PhD student (2027)** at the **[Nankai–Baidu Joint Lab](https://nbjl.nankai.edu.cn/)**.
 
-I work on **efficient AI systems**, with interests in LLM inference and serving, heterogeneous computing and GPU optimization, and systems for embodied AI.
+My research interests:
 
-### Selected work
+- **Large language model inference systems**
+- **Heterogeneous computing & GPU optimization**
+- **Embodied intelligence system optimization**
 
-- **[GPU Optimization for All-Pairs Shortest Path](https://www.jingmingliang2004.com/#projects)**  
-  **CCF-TCARCH 2025 National Champion · Individual competitor**  
-  Optimized a blocked Floyd–Warshall pipeline through memory locality, kernel fusion, and stream scheduling. Reduced end-to-end runtime from **11.50s to 5.42s** on the competition's official hidden datasets.
+## Selected competition honors
 
-- **[Multimodal MoE Routing Bias — CMRD](https://www.jingmingliang2004.com/#-news)**  
-  Developed a training-free probe for noun-driven visual routing bias and studied inference-time mitigation of object hallucination.
+| Year | Competition | Achievement |
+| :---: | :--- | :--- |
+| 2026 | Operating System Design Contest | **National Third Prize** |
+| 2026 | Intelligent Computing Innovation Design Contest (Xiandao Cup) | **National Third Prize** |
+| 2026 | CANN-HCCL Communication Library Innovation Competition | **Third Prize & Special Contribution Award** |
+| 2025 | 8th CCF-TCARCH Computer Architecture Challenge | **National Champion** |
+| 2025 | 19th Challenge Cup | **National Third Prize** |
+| 2025 | Intelligent Computing Innovation Design Contest (Xiandao Cup) | **National Third Prize** |
+| 2025 | CUMCM | **Provincial First Prize** |
 
-- **[K-LoRA++: Adaptive Weight Selection for Diffusion Models](https://www.jingmingliang2004.com/#research)**  
-  **Challenge Cup 2025 · National Third Prize**  
-  Extended K-LoRA with eight timestep-dependent scaling schedules for object–style fusion and contributed to an interactive demo.
+[Full awards record](https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#awards)
 
-- **[RaceRadar](https://www.jingmingliang2004.com/#projects)**  
-  Built a competition discovery system with automated ingestion, deduplication, and ranking, paired with a native Swift iOS app.
+## Open-source contributions
 
-[More projects and research →](https://www.jingmingliang2004.com/#-projects-and-research)
+Contributor to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)** — [merged PRs](https://github.com/rcore-os/tgoskits/pulls?q=is%3Apr+is%3Amerged+author%3Aeprogressing).
 
-### Open source
+---
 
-- **[Triangle Light Maze Solver](https://github.com/eprogressing/triangle-light-maze-solver)** — A static visualization tool that uses dynamic programming to find the optimal path through a triangle maze.
-- **[GitHub Project Cards](https://www.jingmingliang2004.com/github-project-cards/)** — A GitHub REST API integration for my website, rendering selected public repositories as static, accessible cards with dated metadata. [Source](https://github.com/eprogressing/eprogressing.github.io/blob/main/scripts/refresh_github_projects.py).
-
-I contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**, with merged Linux syscall compatibility fixes covering [seccomp validation](https://github.com/rcore-os/tgoskits/pull/2043), [CPU affinity ABI](https://github.com/rcore-os/tgoskits/pull/2045), and [ptrace request width](https://github.com/rcore-os/tgoskits/pull/2054).
-
-### Beyond research
-
-I share CS and AI learning resources, and enjoy music, marathon running, and independent travel.
+Music, marathon running, independent travel — and a little planet of my own.
