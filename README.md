@@ -21,9 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#research"><img src="https://img.shields.io/badge/LLM-Inference_Systems-65518F?style=for-the-badge&amp;labelColor=292333" alt="Research interest: large language model inference systems" /></a>
-  <a href="https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#research"><img src="https://img.shields.io/badge/GPU-Optimization_%26_Heterogeneous-8B4A6B?style=for-the-badge&amp;labelColor=292333" alt="Research interest: heterogeneous computing and GPU optimization" /></a>
-  <a href="https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#research"><img src="https://img.shields.io/badge/Embodied_AI-System_Optimization-A45F32?style=for-the-badge&amp;labelColor=292333" alt="Research interest: embodied intelligence system optimization" /></a>
+  <strong>LLM Inference</strong> &nbsp; · &nbsp; <strong>GPU &amp; Heterogeneous Computing</strong> &nbsp; · &nbsp; <strong>Embodied AI Systems</strong>
 </p>
 
 ## Selected competition honors
