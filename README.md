@@ -9,15 +9,22 @@
   <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-405675?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
-## Exploring efficient AI systems.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=2200&amp;pause=1000&amp;color=BCA2D1&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=460&amp;height=46&amp;lines=Exploring+efficient+AI+systems." />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=2200&amp;pause=1000&amp;color=755091&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=460&amp;height=46&amp;lines=Exploring+efficient+AI+systems." alt="Exploring efficient AI systems." width="460" height="46" />
+  </picture>
+</p>
 
-I'm **Jingming Liang**, a CS undergraduate at **Nankai University** and incoming PhD student (**2027**) at **[NBJL](https://nbjl.nankai.edu.cn/)**.
+<p align="center">
+  I'm <strong>Jingming Liang</strong>, a CS undergraduate at <strong>Nankai University</strong> and incoming PhD student (<strong>2027</strong>) at <a href="https://nbjl.nankai.edu.cn/"><strong>NBJL</strong></a>.
+</p>
 
-My research interests:
-
-- **Large language model inference systems**
-- **Heterogeneous computing & GPU optimization**
-- **Embodied intelligence system optimization**
+<p align="center">
+  <a href="https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#research"><img src="https://img.shields.io/badge/LLM-Inference_Systems-65518F?style=for-the-badge&amp;labelColor=292333" alt="Research interest: large language model inference systems" /></a>
+  <a href="https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#research"><img src="https://img.shields.io/badge/GPU-Optimization_%26_Heterogeneous-8B4A6B?style=for-the-badge&amp;labelColor=292333" alt="Research interest: heterogeneous computing and GPU optimization" /></a>
+  <a href="https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#research"><img src="https://img.shields.io/badge/Embodied_AI-System_Optimization-A45F32?style=for-the-badge&amp;labelColor=292333" alt="Research interest: embodied intelligence system optimization" /></a>
+</p>
 
 ## Selected competition honors
 
