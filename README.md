@@ -23,8 +23,8 @@
 **Research interests**
 
 <p>
-  <img src="https://img.shields.io/badge/LLM-Inference_Systems-65518F?style=for-the-badge&amp;labelColor=292333" alt="LLM: Inference systems" /><br />
-  <img src="https://img.shields.io/badge/GPU-Heterogeneous_Optimization-8B4A6B?style=for-the-badge&amp;labelColor=292333" alt="GPU: Heterogeneous computing and optimization" /><br />
+  <img src="https://img.shields.io/badge/LLM-Inference_Systems-65518F?style=for-the-badge&amp;labelColor=292333" alt="LLM: Inference systems" />
+  <img src="https://img.shields.io/badge/GPU-Heterogeneous_Optimization-8B4A6B?style=for-the-badge&amp;labelColor=292333" alt="GPU: Heterogeneous computing and optimization" />
   <img src="https://img.shields.io/badge/Embodied_AI-System_Optimization-A45F32?style=for-the-badge&amp;labelColor=292333" alt="Embodied AI: System optimization" />
 </p>
 
