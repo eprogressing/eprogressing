@@ -26,3 +26,9 @@ In a Shields.io badge URL, the label, message, and color form the `/badge/` path
 ## Adding an award record
 
 Choose a stable award ID and add its explicit anchor and source links to `AWARDS.md`. Add the desktop and mobile SVG variants under `assets/`, then link the new README card to that same anchor. Check the card image, its alt text, and the destination together before publishing.
+
+## Repository notifications
+
+Notification preferences belong to each GitHub account, not to the README. To stop notifications from this repository, sign in with the account receiving the emails and choose **Watch → Ignore** on the repository page. Revoking an application's authorization does not unsubscribe that account from repository activity.
+
+Previously delivered emails remain in the mailbox. When investigating a newly received notification, compare the email's timestamps with the linked PR or discussion activity before assuming that a new change was made. Keep useful PR history and accepted answers rather than deleting them to suppress notifications.
