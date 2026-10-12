@@ -22,10 +22,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/research-mobile-dark.svg?v=2" />
-    <source media="(max-width: 600px)" srcset="assets/research-mobile-light.svg?v=2" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/research-desktop-dark.svg?v=2" />
-    <img src="assets/research-desktop-light.svg?v=2" alt="Research interests: large language model inference systems; heterogeneous computing and GPU optimization; embodied intelligence system optimization." width="900" />
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/research-compact-mobile-dark.svg" />
+    <source media="(max-width: 600px)" srcset="assets/research-compact-mobile-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/research-compact-desktop-dark.svg" />
+    <img src="assets/research-compact-desktop-light.svg" alt="Research interests: large language model inference systems; heterogeneous computing and GPU optimization; embodied intelligence system optimization." width="900" />
   </picture>
 </p>
 
