@@ -24,7 +24,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/LLM-65518F?style=flat-square" alt="LLM" /> &nbsp; Inference systems<br />
-  <img src="https://img.shields.io/badge/GPU-8B4A6B?style=flat-square" alt="GPU" /> &nbsp; Heterogeneous computing &amp; optimization<br />
+  <img src="https://img.shields.io/badge/GPU-8B4A6B?style=flat-square" alt="GPU" /> &nbsp; Heterogeneous compute &amp; optimization<br />
   <img src="https://img.shields.io/badge/Embodied_AI-A45F32?style=flat-square" alt="Embodied AI" /> &nbsp; System optimization
 </p>
 
