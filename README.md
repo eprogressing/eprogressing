@@ -20,9 +20,9 @@
   I'm <strong>Jingming Liang</strong>, a CS undergraduate at <strong>Nankai University</strong> and incoming PhD student (<strong>2027</strong>) at <a href="https://nbjl.nankai.edu.cn/"><strong>NBJL</strong></a>.
 </p>
 
-**Research interests**
+<p align="center"><strong>Research interests</strong></p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/LLM-Inference_Systems-65518F?style=for-the-badge&amp;labelColor=292333" alt="LLM: Inference systems" />
   <img src="https://img.shields.io/badge/GPU-Heterogeneous_Optimization-8B4A6B?style=for-the-badge&amp;labelColor=292333" alt="GPU: Heterogeneous computing and optimization" />
   <img src="https://img.shields.io/badge/Embodied_AI-System_Optimization-A45F32?style=for-the-badge&amp;labelColor=292333" alt="Embodied AI: System optimization" />
