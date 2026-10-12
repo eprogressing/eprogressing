@@ -22,3 +22,7 @@ GitHub controls the profile's available width and Markdown rendering. An introdu
 ## Editing a Shields badge
 
 In a Shields.io badge URL, the label, message, and color form the `/badge/` path. Keep `style=for-the-badge` consistent within each row. When writing a URL inside an HTML attribute in the README, encode query separators as `&amp;`. To change where a badge opens, edit its surrounding `<a href="...">` rather than the image URL.
+
+## Adding an award record
+
+Choose a stable award ID and add its explicit anchor and source links to `AWARDS.md`. Add the desktop and mobile SVG variants under `assets/`, then link the new README card to that same anchor. Check the card image, its alt text, and the destination together before publishing.
