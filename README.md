@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  I'm <strong>Jingming Liang</strong>, a CS undergraduate at <strong>Nankai University</strong> and incoming PhD student (<strong>2027</strong>) at <a href="https://nbjl.nankai.edu.cn/"><strong>NBJL</strong></a>.
+  I'm <strong>Jingming Liang</strong>, a CS undergraduate at <strong>Nankai University</strong> and incoming PhD student (<strong>2027</strong>) at <a href="https://nbjl.nankai.edu.cn/"><strong>NBJL</strong></a>.<br />
+  My research interests include:
 </p>
 
 <p align="center">
