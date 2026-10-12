@@ -21,7 +21,12 @@
 </p>
 
 <p align="center">
-  <strong>LLM Inference</strong> &nbsp; · &nbsp; <strong>GPU &amp; Heterogeneous Computing</strong> &nbsp; · &nbsp; <strong>Embodied AI Systems</strong>
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/research-mobile-dark.svg" />
+    <source media="(max-width: 600px)" srcset="assets/research-mobile-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="assets/research-desktop-dark.svg" />
+    <img src="assets/research-desktop-light.svg" alt="Research interests: large language model inference systems; heterogeneous computing and GPU optimization; embodied intelligence system optimization." width="900" />
+  </picture>
 </p>
 
 ## Selected competition honors
