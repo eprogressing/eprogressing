@@ -11,7 +11,7 @@
 
 ## Exploring efficient AI systems.
 
-I'm **Jingming Liang** — Nankai CS undergraduate & incoming PhD (**2027**) at **[NBJL](https://nbjl.nankai.edu.cn/)**.
+I'm **Jingming Liang**, a CS undergraduate at **Nankai University** and incoming PhD student (**2027**) at **[NBJL](https://nbjl.nankai.edu.cn/)**.
 
 My research interests:
 
