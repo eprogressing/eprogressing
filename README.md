@@ -19,17 +19,18 @@
   <img src="https://img.shields.io/badge/Embodied_AI-System_Optimization-A45F32?style=for-the-badge&amp;labelColor=292333" alt="Embodied AI: System optimization" />
 </p>
 
-## Selected competition honors
+## Competition honors
 
-| Year | Competition | Achievement |
-| :---: | :--- | :--- |
-| 2026 | Operating System Design Contest | **National Third Prize** |
-| 2026 | Intelligent Computing Innovation Design Contest (Xiandao Cup) | **National Third Prize** |
-| 2026 | CANN-HCCL Communication Library Innovation Competition | **Third Prize & Special Contribution Award** |
-| 2025 | 8th CCF-TCARCH Computer Architecture Challenge | **National Champion** |
-| 2025 | 19th Challenge Cup | **National Third Prize** |
-| 2025 | Intelligent Computing Innovation Design Contest (Xiandao Cup) | **National Third Prize** |
-| 2025 | CUMCM | **Provincial First Prize** |
+<p>
+  <a href="https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#awards">
+    <picture>
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/honors-mobile-dark.svg" />
+      <source media="(max-width: 600px)" srcset="assets/honors-mobile-light.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="assets/honors-desktop-dark.svg" />
+      <img src="assets/honors-desktop-light.svg" alt="2026: Operating System Design — National Third Prize; Xiandao Cup — National Third Prize; CANN-HCCL — Third Prize and Special Contribution Award. 2025: CCF-TCARCH — National Champion; Challenge Cup — National Third Prize; Xiandao Cup — National Third Prize; CUMCM — Provincial First Prize." width="900" />
+    </picture>
+  </a>
+</p>
 
 [Full awards record](https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#awards)
 
