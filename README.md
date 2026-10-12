@@ -10,17 +10,8 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=2200&amp;pause=1000&amp;color=BCA2D1&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=460&amp;height=46&amp;lines=Exploring+efficient+AI+systems." />
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=21&amp;duration=2200&amp;pause=1000&amp;color=755091&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=460&amp;height=46&amp;lines=Exploring+efficient+AI+systems." alt="Exploring efficient AI systems." width="460" height="46" />
-  </picture>
-</p>
-
-<p align="center">
   I'm <strong>Jingming Liang</strong>, a CS undergraduate at <strong>Nankai University</strong> and incoming PhD student (<strong>2027</strong>) at <a href="https://nbjl.nankai.edu.cn/"><strong>NBJL</strong></a>.
 </p>
-
-<p align="center"><strong>Research interests</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LLM-Inference_Systems-65518F?style=for-the-badge&amp;labelColor=292333" alt="LLM: Inference systems" />
