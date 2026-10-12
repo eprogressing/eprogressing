@@ -20,13 +20,12 @@
   I'm <strong>Jingming Liang</strong>, a CS undergraduate at <strong>Nankai University</strong> and incoming PhD student (<strong>2027</strong>) at <a href="https://nbjl.nankai.edu.cn/"><strong>NBJL</strong></a>.
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/research-compact-mobile-dark.svg" />
-    <source media="(max-width: 600px)" srcset="assets/research-compact-mobile-light.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/research-compact-desktop-dark.svg" />
-    <img src="assets/research-compact-desktop-light.svg" alt="Research interests: large language model inference systems; heterogeneous computing and GPU optimization; embodied intelligence system optimization." width="900" />
-  </picture>
+**Research interests**
+
+<p>
+  <img src="https://img.shields.io/badge/LLM-65518F?style=flat-square" alt="LLM" /> &nbsp; Inference systems<br />
+  <img src="https://img.shields.io/badge/GPU-8B4A6B?style=flat-square" alt="GPU" /> &nbsp; Heterogeneous computing &amp; optimization<br />
+  <img src="https://img.shields.io/badge/Embodied_AI-A45F32?style=flat-square" alt="Embodied AI" /> &nbsp; System optimization
 </p>
 
 ## Selected competition honors
