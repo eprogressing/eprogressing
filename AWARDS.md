@@ -91,3 +91,41 @@ China Undergraduate Mathematical Contest in Modeling (CUMCM) · 2025
 [Tianjin regional results](https://www.cmathc.org.cn/mcm/news/362.html)
 
 ---
+
+## Tianjin Challenge Cup 2025
+
+**Grand Prize**
+
+Tianjin Challenge Cup Undergraduate Extracurricular Academic Science and Technology Works Competition · 2025
+
+[Lab award record](https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#awards)
+
+---
+
+## MCM 2025
+
+**Honorable Mention**
+
+Mathematical Contest in Modeling · 2025
+
+[Lab award record](https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#awards)
+
+---
+
+## CUMCM 2024
+
+**Provincial Second Prize**
+
+Contemporary Undergraduate Mathematical Contest in Modeling · 2024
+
+[Lab award record](https://nbjl.nankai.edu.cn/2023/0716/c13371a604032/page.htm#awards)
+
+---
+
+## Data Analysis 2024
+
+**National First Prize**
+
+3rd National Undergraduate Data Analysis Popularization Competition · 2024
+
+---
