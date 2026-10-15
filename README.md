@@ -36,6 +36,8 @@
 
 ## Open-source contributions
 
+Founder of **[Lamplighter Commons](https://github.com/lamplighter-commons)** — open-source tools and learning resources, shared freely.
+
 Contributor to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)** — [merged PRs](https://github.com/rcore-os/tgoskits/pulls?q=is%3Apr+is%3Amerged+author%3Aeprogressing).
 
 ---
