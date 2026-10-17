@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="#about">About</a> / 
+  <a href="#hi-im-jingming-liang">About</a> / 
   <a href="#projects">Projects</a> / 
   <a href="#open-source">Open source</a> / 
   <a href="#competition-honors">Honors</a> / 
