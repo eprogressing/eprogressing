@@ -52,6 +52,11 @@ For research and collaboration, reach me at **[liangjm@nbjl.nankai.edu.cn](mailt
 
 For bugs, questions, or ideas about a project, please open an issue in its repository.
 
-<p><img src="assets/orbit-divider.svg" width="100%" height="24" alt="" /></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eprogressing/eprogressing/snake-output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/eprogressing/eprogressing/snake-output/snake-light.svg" width="100%" alt="Animated snake following my GitHub contributions" />
+  </picture>
+</p>
 
 <p align="center"><sub>A little planet of my own.</sub></p>
