@@ -6,7 +6,8 @@ This repository supplies the profile README for [eprogressing](https://github.co
 
 - Keep the Little Prince cover at `assets/hero.svg`.
 - Keep the profile in English, using GitHub's native Markdown typography.
-- The cover leads directly into About. Keep the greeting, affiliation, one concise research paragraph, and personal/open-source introduction together in this section.
+- A compact, left-aligned text navigation row sits below the cover, linking to About, Projects, Open source, Competition honors, and Contact.
+- The introduction begins in About. Keep the greeting, affiliation, one concise research paragraph, and personal/open-source introduction together in this section.
 - The terminal-style greeting is a local animated SVG at `assets/intro-about-code.svg`, using an explicit system monospace stack at size 18. Its light/dark colors are `#716083` and `#BBAACD`. The animation includes a reduced-motion fallback and does not call an external typing service.
 - Keep the Website, CV, ORCID, and Email badges in one left-aligned row at the end of About, before Projects. The lab link belongs in the affiliation text.
 - Competition honors are text lists grouped by year. Keep the detailed records and evidence links in `AWARDS.md`; exclude school-level awards.

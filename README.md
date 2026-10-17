@@ -2,6 +2,10 @@
   <img src="assets/hero.svg" alt="Hello, I'm Jingming Liang. A Little Prince illustration with a small planet, a rose, and a terminal." width="100%" />
 </p>
 
+<p align="left">
+  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#projects">Projects</a> &nbsp;·&nbsp; <a href="#open-source">Open source</a> &nbsp;·&nbsp; <a href="#competition-honors">Honors</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
+</p>
+
 ## About
 
 <p><img src="assets/intro-about-code.svg" width="320" height="34" alt="Hi, I'm Jingming Liang." /></p>
@@ -10,7 +14,7 @@ I'm a senior undergraduate in Computer Science at **Nankai University** and an i
 
 My research interests lie in **efficient systems for LLMs and embodied AI**, with a focus on LLM inference, GPU and heterogeneous computing, and performance optimization.
 
-I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**, and contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**. Outside computing, I enjoy music, marathon running, and independent travel.
+I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**, and contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**. Outside computing, I enjoy music, volleyball, marathon running, and independent travel.
 
 <p align="left">
   <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-455F7B?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
