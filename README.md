@@ -3,16 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/research-intro.svg" alt="Exploring efficient AI systems." width="512" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM-Inference_Systems-65518F?style=for-the-badge&amp;labelColor=292333" alt="Research interest: LLM inference systems" />
-  <img src="https://img.shields.io/badge/GPU-Heterogeneous_Computing-8B4A6B?style=for-the-badge&amp;labelColor=292333" alt="Research interest: GPU and heterogeneous computing" />
-  <img src="https://img.shields.io/badge/Embodied_AI-Efficient_Systems-A45F32?style=for-the-badge&amp;labelColor=292333" alt="Research interest: efficient embodied AI systems" />
-</p>
-
-<p align="center">
   <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-8B4A6B?style=for-the-badge&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
   <a href="https://nbjl.nankai.edu.cn/"><img src="https://img.shields.io/badge/NBJL_Lab-65518F?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="NBJL Lab" /></a>
   <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf"><img src="https://img.shields.io/badge/CV-A45F32?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
@@ -30,7 +20,11 @@
 
 ## About
 
-I'm **Jingming Liang**, a senior undergraduate in Computer Science at **Nankai University** and an incoming PhD student at **[NBJL](https://nbjl.nankai.edu.cn/)**.
+<p>
+  <img src="assets/hello.svg" alt="Hi, I'm Jingming Liang." width="460" />
+</p>
+
+I'm a senior undergraduate in Computer Science at **Nankai University** and an incoming PhD student at **[NBJL](https://nbjl.nankai.edu.cn/)**.
 
 My research interests are efficient systems for LLMs and embodied AI:
 

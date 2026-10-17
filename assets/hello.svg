@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="52" viewBox="0 0 460 52" role="img" aria-labelledby="title">
+  <title id="title">Hi, I'm Jingming Liang.</title>
+  <style>
+    text { fill: #1f2328; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 28px; font-weight: 600; }
+    .name { fill: #755091; }
+    .reveal { width: 1px; animation: type-in 1.8s steps(22, end) 0.15s both; }
+    .cursor { animation: blink 0.7s step-end 5; opacity: 0; }
+    @keyframes type-in { from { width: 0; } to { width: 1px; } }
+    @keyframes blink { 0%, 100% { opacity: 0; } 50% { opacity: 1; } }
+    @media (prefers-color-scheme: dark) { text { fill: #e6edf3; } .name { fill: #bca2d1; } }
+    @media (prefers-reduced-motion: reduce) { .reveal, .cursor { animation: none; } .reveal { width: 1px; } }
+  </style>
+  <defs>
+    <clipPath id="reveal" clipPathUnits="objectBoundingBox">
+      <rect class="reveal" x="0" y="0" width="1" height="1" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#reveal)">
+    <text x="0" y="35">Hi, I'm <tspan class="name">Jingming Liang.</tspan><tspan class="cursor"> |</tspan></text>
+  </g>
+</svg>
