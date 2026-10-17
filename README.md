@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#projects">Projects</a> &nbsp;·&nbsp; <a href="#open-source">Open source</a> &nbsp;·&nbsp; <a href="#competition-honors">Honors</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
+  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#open-source">Open source</a> &nbsp;·&nbsp; <a href="#competition-honors">Honors</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
 </p>
 
 ## About
@@ -23,23 +23,11 @@ I build tools and share learning resources through **[Lamplighter Commons](https
   <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-8A5D63?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
-## Projects
-
-### [Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver)
-
-Learn dynamic programming by building a triangular maze, marking its glowing nodes, and tracing the path that collects the most lights. Inspect the DP table, path reconstruction, and tie-breaking rules as you go.
-
-**[Open the interactive demo](https://lamplighter-commons.github.io/triangle-light-maze-solver/)** · [Source](https://github.com/lamplighter-commons/triangle-light-maze-solver) · [Report an issue](https://github.com/lamplighter-commons/triangle-light-maze-solver/issues/new/choose)
-
-JavaScript · HTML / CSS · MIT License
-
-Runs entirely in the browser, with no installation or build step. The application interface is currently in Chinese.
-
 ## Open source
 
 ### Building: [Lamplighter Commons](https://github.com/lamplighter-commons)
 
-I started Lamplighter Commons to share useful tools and learning resources. Code, documentation, examples, and reproducible bug reports are all welcome.
+I started Lamplighter Commons to share useful tools and learning resources. One project is [Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver), an interactive visualization of dynamic programming. Code, documentation, and learning resources are welcome.
 
 [Contribution guide](https://github.com/lamplighter-commons/.github/blob/main/CONTRIBUTING.md) · [Browse projects](https://github.com/orgs/lamplighter-commons/repositories)
 
