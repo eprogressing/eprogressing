@@ -45,6 +45,8 @@ Runs entirely in the browser, with no installation or build step. The applicatio
 
 **[Lamplighter Commons](https://github.com/lamplighter-commons)** — Founder and maintainer. Open-source tools and learning resources, shared freely.
 
+[Contribute to a project](https://github.com/lamplighter-commons/.github/blob/main/CONTRIBUTING.md) through code, documentation, examples, or a reproducible bug report. If you find a tool useful, starring or sharing it helps others discover it.
+
 **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)** — Contributor. My merged work includes syscall ABI fixes, input validation, filesystem boundary handling, and system-test reliability.
 
 [Browse my merged contributions](https://github.com/rcore-os/tgoskits/pulls?q=is%3Apr+is%3Amerged+author%3Aeprogressing)
