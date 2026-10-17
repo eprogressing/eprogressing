@@ -8,19 +8,15 @@
 
 I'm a senior undergraduate in Computer Science at **Nankai University** and an incoming PhD student at **[NBJL](https://nbjl.nankai.edu.cn/)**.
 
-My research interests center on **efficient systems for LLMs and embodied AI**:
+My research interests lie in **efficient systems for LLMs and embodied AI**, with a focus on LLM inference, GPU and heterogeneous computing, and performance optimization.
 
-- **LLM inference systems** — execution efficiency and AI infrastructure.
-- **GPU and heterogeneous computing** — performance optimization across hardware.
-- **Embodied AI systems** — efficient infrastructure for embodied intelligence.
-
-Outside research, I build small tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**. I enjoy music, marathon running, and independent travel.
+I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**, and contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**. Outside computing, I enjoy music, marathon running, and independent travel.
 
 <p align="left">
-  <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-65518F?style=flat&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
-  <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf"><img src="https://img.shields.io/badge/CV-65518F?style=flat&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
-  <a href="https://orcid.org/0009-0000-9695-7373"><img src="https://img.shields.io/badge/ORCID-65518F?style=flat&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
-  <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-65518F?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-455F7B?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
+  <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf"><img src="https://img.shields.io/badge/CV-756080?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
+  <a href="https://orcid.org/0009-0000-9695-7373"><img src="https://img.shields.io/badge/ORCID-5B7C2F?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
+  <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-8A5D63?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
 ## Projects

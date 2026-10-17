@@ -6,7 +6,7 @@ This repository supplies the profile README for [eprogressing](https://github.co
 
 - Keep the Little Prince cover at `assets/hero.svg`.
 - Keep the profile in English, using GitHub's native Markdown typography.
-- The cover leads directly into About. Keep the greeting, affiliation, research interests, and personal introduction together in this section.
+- The cover leads directly into About. Keep the greeting, affiliation, one concise research paragraph, and personal/open-source introduction together in this section.
 - The terminal-style greeting is a local animated SVG at `assets/intro-about-code.svg`, using an explicit system monospace stack at size 18. Its light/dark colors are `#716083` and `#BBAACD`. The animation includes a reduced-motion fallback and does not call an external typing service.
 - Keep the Website, CV, ORCID, and Email badges in one left-aligned row at the end of About, before Projects. The lab link belongs in the affiliation text.
 - Competition honors are text lists grouped by year. Keep the detailed records and evidence links in `AWARDS.md`; exclude school-level awards.
@@ -26,7 +26,7 @@ GitHub controls the profile's width and Markdown rendering. Prefer short, readab
 
 ## Editing badges
 
-Keep `style=flat` and the current muted purple consistent within the compact link row. In HTML attributes, write query separators as `&amp;`. Change the surrounding `<a href="...">` to update a badge's destination; keep meaningful image alt text.
+Keep `style=flat-square` throughout the compact contact row. Use muted blue `455F7B` for Website, purple `756080` for CV, green `5B7C2F` for ORCID, and rose `8A5D63` for Email. In HTML attributes, write query separators as `&amp;`. Change the surrounding `<a href="...">` to update a badge's destination; keep meaningful image alt text.
 
 ## Adding an award
 
