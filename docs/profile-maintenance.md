@@ -47,3 +47,7 @@ Keep the open-source introduction in About only. Do not recreate a standalone Op
 ## Accepted visual layout
 
 Do not add a top navigation row. Keep the cover, terminal greeting, and muted square contact badges. Separate the maze-solver explanation into a short blockquote within About. Show all 12 approved competition entries as text lists grouped by year, preserving full names. Contact contains email and issue guidance without repeating Website or CV. Use `assets/orbit-divider.svg` as the subtle animated footer rule, with its reduced-motion fallback.
+
+## Competition role highlights
+
+Use only the small local highlighter SVGs on the confirmed competition entries; do not color entire lines or introduce a badge wall. Purple `Solo entry`: CCF-TCARCH 2025, Xiandao Cup 2026, CANN-HCCL 2026, TRAE 2025, Data Analysis Popular Science 2024. Gold `Team captain`: OS Design 2026, CUMCM 2025, MCM 2025, CUMCM 2024. These roles were explicitly confirmed by the author. Leave other entries unmarked unless confirmed.

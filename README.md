@@ -27,24 +27,24 @@ Outside computing, I enjoy music (violin and guitar), volleyball, marathon runni
 
 **2026**
 
-- **National Third Prize** — Computer System Development Capability Competition — Operating System Design Contest (OS Function Challenge Track).
-- **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup).
-- **Third Prize & Special Contribution Award** — CANN-HCCL Communication Library Innovation Competition.
+- **National Third Prize** — Computer System Development Capability Competition — Operating System Design Contest (OS Function Challenge Track). <img src="assets/role-captain.svg" alt="Team captain" width="96" height="20" />
+- **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup). <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
+- **Third Prize & Special Contribution Award** — CANN-HCCL Communication Library Innovation Competition. <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
 
 **2025**
 
-- **Second Place** — TRAE Vibe Coding Workshop.
+- **Second Place** — TRAE Vibe Coding Workshop. <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
 - **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup).
-- **Provincial First Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division.
+- **Provincial First Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division. <img src="assets/role-captain.svg" alt="Team captain" width="96" height="20" />
 - **National Third Prize** — 19th Challenge Cup National Undergraduate Extracurricular Academic Science and Technology Works Competition.
-- **National Champion** — 8th CCF-TCARCH Computer Architecture Challenge.
+- **National Champion** — 8th CCF-TCARCH Computer Architecture Challenge. <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
 - **Grand Prize** — Challenge Cup Tianjin Undergraduate Extracurricular Academic Science and Technology Works Competition.
-- **Honorable Mention** — Mathematical Contest in Modeling (MCM).
+- **Honorable Mention** — Mathematical Contest in Modeling (MCM). <img src="assets/role-captain.svg" alt="Team captain" width="96" height="20" />
 
 **2024**
 
-- **Provincial Second Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division.
-- **National First Prize** — 3rd National College Student Data Analysis Popular Science Competition.
+- **Provincial Second Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division. <img src="assets/role-captain.svg" alt="Team captain" width="96" height="20" />
+- **National First Prize** — 3rd National College Student Data Analysis Popular Science Competition. <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
 
 ## Contact
 
