@@ -10,9 +10,9 @@
 
 <p><img src="assets/intro-about-code.svg" width="320" height="34" alt="Hi, I'm Jingming Liang." /></p>
 
-I'm a senior undergraduate in Computer Science at **Nankai University** and an incoming PhD student at **[NBJL](https://nbjl.nankai.edu.cn/)**.
+I'm a senior undergraduate in Computer Science at **Nankai University**, where I expect to begin my PhD in **2027** with the **[Nankai–Baidu Joint Laboratory (NBJL)](https://nbjl.nankai.edu.cn/)**.
 
-My research interests lie in **efficient systems for LLMs and embodied AI**, with a focus on LLM inference, GPU and heterogeneous computing, and performance optimization.
+My research interests focus on **LLM inference systems**, **heterogeneous computing and GPU optimization**, and **embodied intelligence system optimization**.
 
 I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**, and contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**. Outside computing, I enjoy music, volleyball, marathon running, and independent travel.
 
@@ -27,23 +27,24 @@ I build tools and share learning resources through **[Lamplighter Commons](https
 
 **2026**
 
-- **National Third Prize** — Operating System Design Contest.
-- **National Third Prize** — Xiandao Cup Intelligent Computing Innovation Design Contest.
+- **National Third Prize** — Computer System Development Capability Competition — Operating System Design Contest (OS Function Challenge Track).
+- **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup).
 - **Third Prize & Special Contribution Award** — CANN-HCCL Communication Library Innovation Competition.
 
 **2025**
 
+- **Runner-up** — TRAE Vibe Coding Workshop.
+- **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup).
+- **Provincial First Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division.
+- **National Third Prize** — 19th Challenge Cup National Undergraduate Extracurricular Academic Science and Technology Works Competition.
 - **National Champion** — 8th CCF-TCARCH Computer Architecture Challenge.
-- **National Third Prize** — 19th Challenge Cup.
-- **National Third Prize** — Xiandao Cup Intelligent Computing Innovation Design Contest.
-- **Provincial First Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM).
-- **Grand Prize** — Tianjin Challenge Cup.
+- **Grand Prize** — Challenge Cup Tianjin Undergraduate Extracurricular Academic Science and Technology Works Competition.
 - **Honorable Mention** — Mathematical Contest in Modeling (MCM).
 
 **2024**
 
-- **National First Prize** — 3rd National Undergraduate Data Analysis Popularization Competition.
-- **Provincial Second Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM).
+- **Provincial Second Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division.
+- **National First Prize** — 3rd National College Student Data Analysis Popular Science Competition.
 
 [Award details and references](AWARDS.md)
 
