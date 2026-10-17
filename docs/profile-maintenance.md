@@ -6,7 +6,8 @@ This repository supplies the profile README for [eprogressing](https://github.co
 
 - Keep the Little Prince cover at `assets/hero.svg`.
 - Keep the profile in English, using GitHub's native Markdown typography.
-- Navigation links point to the About, Projects, Open source, Competition honors, and Contact sections.
+- Navigation links point to the introduction, Projects, Open source, Competition honors, and Contact sections. The introduction uses a native Markdown greeting heading with an explicit `about` anchor; preserve that anchor.
+- Use GitHub's native font for headings and introductions. Keep decorative motion in the existing cover instead of adding text rendered as images.
 - Competition honors are text lists grouped by year. Keep the detailed records and evidence links in `AWARDS.md`; exclude school-level awards.
 - Existing award illustrations are retained as archived assets. The README no longer displays the award wall; adding an award does not require generating images.
 - Website, CV, ORCID, email, project, and organization links should point to real, available destinations.
@@ -24,7 +25,7 @@ GitHub controls the profile's width and Markdown rendering. Prefer short, readab
 
 ## Editing badges
 
-Keep `style=flat-square` consistent within the current link row. In HTML attributes, write query separators as `&amp;`. Change the surrounding `<a href="...">` to update a badge's destination; keep meaningful image alt text.
+Keep `style=flat` and the current muted purple consistent within the compact link row. In HTML attributes, write query separators as `&amp;`. Change the surrounding `<a href="...">` to update a badge's destination; keep meaningful image alt text.
 
 ## Adding an award
 
