@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#open-source">Open source</a> &nbsp;·&nbsp; <a href="#competition-honors">Honors</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
+  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#competition-honors">Honors</a> &nbsp;·&nbsp; <a href="#open-source">Open source</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
 </p>
 
 ## About
@@ -22,20 +22,6 @@ I build tools and share learning resources through **[Lamplighter Commons](https
   <a href="https://orcid.org/0009-0000-9695-7373"><img src="https://img.shields.io/badge/ORCID-5B7C2F?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
   <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-8A5D63?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
-
-## Open source
-
-### Building: [Lamplighter Commons](https://github.com/lamplighter-commons)
-
-I started Lamplighter Commons to share useful tools and learning resources. One project is [Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver), an interactive visualization of dynamic programming. Code, documentation, and learning resources are welcome.
-
-[Contribution guide](https://github.com/lamplighter-commons/.github/blob/main/CONTRIBUTING.md) · [Browse projects](https://github.com/orgs/lamplighter-commons/repositories)
-
-### Contributing: [StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)
-
-My merged work includes syscall ABI fixes, input validation, filesystem boundary handling, and system-test reliability.
-
-[Browse my merged contributions](https://github.com/rcore-os/tgoskits/pulls?q=is%3Apr+is%3Amerged+author%3Aeprogressing)
 
 ## Competition honors
 
@@ -60,6 +46,20 @@ My merged work includes syscall ABI fixes, input validation, filesystem boundary
 - **Provincial Second Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM).
 
 [Award details and references](AWARDS.md)
+
+## Open source
+
+### Building: [Lamplighter Commons](https://github.com/lamplighter-commons)
+
+I started Lamplighter Commons to share useful tools and learning resources. I created [Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver), an interactive visualization of dynamic programming. Code, documentation, and learning resources are welcome.
+
+[Contribution guide](https://github.com/lamplighter-commons/.github/blob/main/CONTRIBUTING.md) · [Browse projects](https://github.com/orgs/lamplighter-commons/repositories)
+
+### Contributing: [StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)
+
+My merged work includes syscall ABI fixes, input validation, filesystem boundary handling, and system-test reliability.
+
+[Browse my merged contributions](https://github.com/rcore-os/tgoskits/pulls?q=is%3Apr+is%3Amerged+author%3Aeprogressing)
 
 ## Contact
 

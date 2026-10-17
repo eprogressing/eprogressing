@@ -6,12 +6,12 @@ This repository supplies the profile README for [eprogressing](https://github.co
 
 - Keep the Little Prince cover at `assets/hero.svg`.
 - Keep the profile in English, using GitHub's native Markdown typography.
-- A compact, left-aligned text navigation row sits below the cover, linking to About, Open source, Competition honors, and Contact.
+- A compact, left-aligned text navigation row sits below the cover, linking to About, Competition honors, Open source, and Contact.
 - The introduction begins in About. Keep the greeting, affiliation, one concise research paragraph, and personal/open-source introduction together in this section.
 - The terminal-style greeting is a local animated SVG at `assets/intro-about-code.svg`, using an explicit system monospace stack at size 18. Its light/dark colors are `#716083` and `#BBAACD`. The animation includes a reduced-motion fallback and does not call an external typing service.
-- Keep the Website, CV, ORCID, and Email badges in one left-aligned row at the end of About, before Open source. The lab link belongs in the affiliation text.
-- Keep Triangle Light Maze Solver as a brief mention under Lamplighter Commons in Open source; do not give it a standalone Projects section.
-- Competition honors are text lists grouped by year. Keep the detailed records and evidence links in `AWARDS.md`; exclude school-level awards.
+- Keep the Website, CV, ORCID, and Email badges in one left-aligned row at the end of About, before Competition honors. The lab link belongs in the affiliation text.
+- Keep Triangle Light Maze Solver as a brief first-person authorship mention under Lamplighter Commons in Open source; do not give it a standalone Projects section.
+- Competition honors appear immediately after About and before Open source to foreground technical achievements. They are text lists grouped by year. Keep the detailed records and evidence links in `AWARDS.md`; exclude school-level awards.
 - Existing award illustrations are retained as archived assets. The README no longer displays the award wall; adding an award does not require generating images.
 - Website, CV, ORCID, email, project, and organization links should point to real, available destinations.
 - Only add projects, publications, affiliations, and funding links when their details are confirmed. Do not publish placeholders for unreleased projects or unavailable sponsorship accounts.
