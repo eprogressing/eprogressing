@@ -50,7 +50,7 @@ Do not add a top navigation row. Keep the cover, terminal greeting, and muted sq
 
 ## Competition role highlights
 
-Use only the small local highlighter SVGs on the confirmed competition entries; do not color entire lines or introduce a badge wall. Purple `Solo entry`: CCF-TCARCH 2025, Xiandao Cup 2026, CANN-HCCL 2026, TRAE 2025, Data Analysis Popular Science 2024. Gold `Team captain`: OS Design 2026, CUMCM 2025, MCM 2025, CUMCM 2024. These roles were explicitly confirmed by the author. Leave other entries unmarked unless confirmed.
+Use whole-entry pale highlighter SVGs for the confirmed competition entries, with wide and compact variants selected through picture sources. Keep text left-aligned with native list entries, use 24px line spacing, and preserve full accessible alt text. The author approved whole-entry backgrounds in place of the earlier small role labels. Purple `Solo entry`: CCF-TCARCH 2025, Xiandao Cup 2026, CANN-HCCL 2026, TRAE 2025, Data Analysis Popular Science 2024. Gold `Team captain`: OS Design 2026, CUMCM 2025, MCM 2025, CUMCM 2024. These roles were explicitly confirmed by the author. Leave other entries unmarked unless confirmed.
 
 ## Contribution snake
 

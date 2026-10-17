@@ -27,24 +27,24 @@ Outside computing, I enjoy music (violin and guitar), volleyball, marathon runni
 
 **2026**
 
-- **National Third Prize** — Computer System Development Capability Competition — Operating System Design Contest (OS Function Challenge Track). <img src="assets/role-captain.svg" alt="Team captain" width="96" height="20" />
-- **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup). <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
-- **Third Prize & Special Contribution Award** — CANN-HCCL Communication Library Innovation Competition. <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
+- <picture><source media="(max-width: 600px)" srcset="assets/honor-2026-1-compact.svg" /><img src="assets/honor-2026-1-wide.svg" width="720" align="top" alt="National Third Prize — Computer System Development Capability Competition — Operating System Design Contest (OS Function Challenge Track). (Team captain)" /></picture>
+- <picture><source media="(max-width: 600px)" srcset="assets/honor-2026-2-compact.svg" /><img src="assets/honor-2026-2-wide.svg" width="720" align="top" alt="National Third Prize — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup). (Solo entry)" /></picture>
+- <picture><source media="(max-width: 600px)" srcset="assets/honor-2026-3-compact.svg" /><img src="assets/honor-2026-3-wide.svg" width="720" align="top" alt="Third Prize &amp; Special Contribution Award — CANN-HCCL Communication Library Innovation Competition. (Solo entry)" /></picture>
 
 **2025**
 
-- **Second Place** — TRAE Vibe Coding Workshop. <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
+- <picture><source media="(max-width: 600px)" srcset="assets/honor-2025-4-compact.svg" /><img src="assets/honor-2025-4-wide.svg" width="720" align="top" alt="Second Place — TRAE Vibe Coding Workshop. (Solo entry)" /></picture>
 - **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup).
-- **Provincial First Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division. <img src="assets/role-captain.svg" alt="Team captain" width="96" height="20" />
+- <picture><source media="(max-width: 600px)" srcset="assets/honor-2025-5-compact.svg" /><img src="assets/honor-2025-5-wide.svg" width="720" align="top" alt="Provincial First Prize — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division. (Team captain)" /></picture>
 - **National Third Prize** — 19th Challenge Cup National Undergraduate Extracurricular Academic Science and Technology Works Competition.
-- **National Champion** — 8th CCF-TCARCH Computer Architecture Challenge. <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
+- <picture><source media="(max-width: 600px)" srcset="assets/honor-2025-6-compact.svg" /><img src="assets/honor-2025-6-wide.svg" width="720" align="top" alt="National Champion — 8th CCF-TCARCH Computer Architecture Challenge. (Solo entry)" /></picture>
 - **Grand Prize** — Challenge Cup Tianjin Undergraduate Extracurricular Academic Science and Technology Works Competition.
-- **Honorable Mention** — Mathematical Contest in Modeling (MCM). <img src="assets/role-captain.svg" alt="Team captain" width="96" height="20" />
+- <picture><source media="(max-width: 600px)" srcset="assets/honor-2025-7-compact.svg" /><img src="assets/honor-2025-7-wide.svg" width="720" align="top" alt="Honorable Mention — Mathematical Contest in Modeling (MCM). (Team captain)" /></picture>
 
 **2024**
 
-- **Provincial Second Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division. <img src="assets/role-captain.svg" alt="Team captain" width="96" height="20" />
-- **National First Prize** — 3rd National College Student Data Analysis Popular Science Competition. <img src="assets/role-solo.svg" alt="Solo entry" width="72" height="20" />
+- <picture><source media="(max-width: 600px)" srcset="assets/honor-2024-8-compact.svg" /><img src="assets/honor-2024-8-wide.svg" width="720" align="top" alt="Provincial Second Prize — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division. (Team captain)" /></picture>
+- <picture><source media="(max-width: 600px)" srcset="assets/honor-2024-9-compact.svg" /><img src="assets/honor-2024-9-wide.svg" width="720" align="top" alt="National First Prize — 3rd National College Student Data Analysis Popular Science Competition. (Solo entry)" /></picture>
 
 ## Contact
 
