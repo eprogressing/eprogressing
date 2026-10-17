@@ -50,7 +50,7 @@ Outside computing, I enjoy music (violin and guitar), volleyball, marathon runni
 
 ## Contact
 
-For research and collaboration, reach me at **[liangjm@nbjl.nankai.edu.cn](mailto:liangjm@nbjl.nankai.edu.cn)**. More about my background is on my [website](https://www.jingmingliang2004.com/) and [CV](https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf).
+For research and collaboration, reach me at **[liangjm@nbjl.nankai.edu.cn](mailto:liangjm@nbjl.nankai.edu.cn)**.
 
 For bugs, questions, or ideas about a project, please open an issue in its repository.
 
