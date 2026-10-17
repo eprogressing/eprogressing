@@ -14,7 +14,7 @@ I'm a senior undergraduate in Computer Science at **Nankai University**, where I
 
 My research interests focus on **LLM inference systems**, **heterogeneous computing and GPU optimization**, and **embodied intelligence system optimization**.
 
-I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**, and contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**. Outside computing, I enjoy music, volleyball, marathon running, and independent travel.
+I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**, and contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**. Outside computing, I enjoy music (violin and guitar), volleyball, marathon running, and independent travel.
 
 <p align="left">
   <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-455F7B?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
