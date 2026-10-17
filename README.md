@@ -33,7 +33,7 @@ I build tools and share learning resources through **[Lamplighter Commons](https
 
 **2025**
 
-- **Runner-up** — TRAE Vibe Coding Workshop.
+- **Second Place** — TRAE Vibe Coding Workshop.
 - **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup).
 - **Provincial First Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division.
 - **National Third Prize** — 19th Challenge Cup National Undergraduate Extracurricular Academic Science and Technology Works Competition.
