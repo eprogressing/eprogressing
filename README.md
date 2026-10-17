@@ -3,6 +3,18 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=27&amp;duration=2400&amp;pause=1600&amp;color=BCA2D1&amp;center=true&amp;vCenter=true&amp;width=480&amp;height=52&amp;lines=Hi%2C+I%27m+Jingming+Liang." />
+    <img src="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=27&amp;duration=2400&amp;pause=1600&amp;color=755091&amp;center=true&amp;vCenter=true&amp;width=480&amp;height=52&amp;lines=Hi%2C+I%27m+Jingming+Liang." alt="Hi, I'm Jingming Liang." width="480" />
+  </picture>
+</p>
+
+<p align="center">
+  Senior undergraduate in Computer Science at <strong>Nankai University</strong><br />
+  Incoming PhD student at <a href="https://nbjl.nankai.edu.cn/"><strong>NBJL</strong></a>
+</p>
+
+<p align="center">
   <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-65518F?style=flat&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
   <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf"><img src="https://img.shields.io/badge/CV-65518F?style=flat&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
   <a href="https://orcid.org/0009-0000-9695-7373"><img src="https://img.shields.io/badge/ORCID-65518F?style=flat&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
@@ -11,18 +23,14 @@
 </p>
 
 <p align="center">
-  <a href="#hi-im-jingming-liang">About</a> / 
+  <a href="#about">About</a> / 
   <a href="#projects">Projects</a> / 
   <a href="#open-source">Open source</a> / 
   <a href="#competition-honors">Honors</a> / 
   <a href="#contact">Contact</a>
 </p>
 
-<a name="about"></a>
-
-## Hi, I'm Jingming Liang.
-
-I'm a senior undergraduate in Computer Science at **Nankai University** and an incoming PhD student at **[NBJL](https://nbjl.nankai.edu.cn/)**.
+## About
 
 My research interests center on **efficient systems for LLMs and embodied AI**:
 
