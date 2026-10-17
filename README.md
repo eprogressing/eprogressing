@@ -14,7 +14,7 @@ I'm a senior undergraduate in Computer Science at **Nankai University**, where I
 
 My research interests focus on **LLM inference systems**, **heterogeneous computing and GPU optimization**, and **embodied intelligence system optimization**.
 
-I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**. I created **[Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver)**, an interactive visualization of a dynamic programming problem used in online coding assessments at well-known companies. It helps learners understand the solution by tracing the path that collects the most lights in a triangular maze. I also contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**.
+I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**. I created **[Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver)**, a solver for triangular-maze problems found in online coding assessments at well-known companies. It uses dynamic programming to compute the path that collects the most lights and displays the result interactively. I also contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**.
 
 Outside computing, I enjoy music (violin and guitar), volleyball, marathon running, and independent travel.
 
