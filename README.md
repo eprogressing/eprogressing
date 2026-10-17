@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#competition-honors">Honors</a> &nbsp;·&nbsp; <a href="#open-source">Open source</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
+  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#competition-honors">Honors</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
 </p>
 
 ## About
@@ -45,20 +45,6 @@ I build tools and share learning resources through **[Lamplighter Commons](https
 
 - **Provincial Second Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division.
 - **National First Prize** — 3rd National College Student Data Analysis Popular Science Competition.
-
-## Open source
-
-### Building: [Lamplighter Commons](https://github.com/lamplighter-commons)
-
-I started Lamplighter Commons to share useful tools and learning resources. I created [Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver), an interactive visualization of dynamic programming. Code, documentation, and learning resources are welcome.
-
-[Contribution guide](https://github.com/lamplighter-commons/.github/blob/main/CONTRIBUTING.md) · [Browse projects](https://github.com/orgs/lamplighter-commons/repositories)
-
-### Contributing: [StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)
-
-My merged work includes syscall ABI fixes, input validation, filesystem boundary handling, and system-test reliability.
-
-[Browse my merged contributions](https://github.com/rcore-os/tgoskits/pulls?q=is%3Apr+is%3Amerged+author%3Aeprogressing)
 
 ## Contact
 
