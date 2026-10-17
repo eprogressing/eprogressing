@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="44" viewBox="0 0 512 44" role="img" aria-labelledby="title">
+  <title id="title">Exploring efficient AI systems.</title>
+  <style>
+    text { fill: #755091; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 500; }
+    .reveal { width: 1px; animation: type-in 2.2s steps(31, end) 0.2s both; }
+    @keyframes type-in { from { width: 0; } to { width: 1px; } }
+    @media (prefers-color-scheme: dark) { text { fill: #bca2d1; } }
+    @media (prefers-reduced-motion: reduce) { .reveal { animation: none; width: 1px; } }
+  </style>
+  <defs>
+    <clipPath id="reveal" clipPathUnits="objectBoundingBox">
+      <rect class="reveal" x="0" y="0" width="1" height="1" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#reveal)">
+    <text x="256" y="29" text-anchor="middle">Exploring efficient AI systems.</text>
+  </g>
+</svg>
