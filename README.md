@@ -2,35 +2,11 @@
   <img src="assets/hero.svg" alt="Hello, I'm Jingming Liang. A Little Prince illustration with a small planet, a rose, and a terminal." width="100%" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=27&amp;duration=2400&amp;pause=1600&amp;color=BCA2D1&amp;center=true&amp;vCenter=true&amp;width=480&amp;height=52&amp;lines=Hi%2C+I%27m+Jingming+Liang." />
-    <img src="https://readme-typing-svg.demolab.com/?font=Inter&amp;weight=500&amp;size=27&amp;duration=2400&amp;pause=1600&amp;color=755091&amp;center=true&amp;vCenter=true&amp;width=480&amp;height=52&amp;lines=Hi%2C+I%27m+Jingming+Liang." alt="Hi, I'm Jingming Liang." width="480" />
-  </picture>
-</p>
-
-<p align="center">
-  Senior undergraduate in Computer Science at <strong>Nankai University</strong><br />
-  Incoming PhD student at <a href="https://nbjl.nankai.edu.cn/"><strong>NBJL</strong></a>
-</p>
-
-<p align="center">
-  <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-65518F?style=flat&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
-  <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf"><img src="https://img.shields.io/badge/CV-65518F?style=flat&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
-  <a href="https://orcid.org/0009-0000-9695-7373"><img src="https://img.shields.io/badge/ORCID-65518F?style=flat&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
-  <a href="https://nbjl.nankai.edu.cn/"><img src="https://img.shields.io/badge/NBJL-65518F?style=flat&amp;logo=googlescholar&amp;logoColor=white" alt="NBJL Lab" /></a>
-  <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-65518F?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <a href="#about">About</a> / 
-  <a href="#projects">Projects</a> / 
-  <a href="#open-source">Open source</a> / 
-  <a href="#competition-honors">Honors</a> / 
-  <a href="#contact">Contact</a>
-</p>
-
 ## About
+
+<p><img src="assets/intro-about-code.svg" width="320" height="34" alt="Hi, I'm Jingming Liang." /></p>
+
+I'm a senior undergraduate in Computer Science at **Nankai University** and an incoming PhD student at **[NBJL](https://nbjl.nankai.edu.cn/)**.
 
 My research interests center on **efficient systems for LLMs and embodied AI**:
 
@@ -39,6 +15,13 @@ My research interests center on **efficient systems for LLMs and embodied AI**:
 - **Embodied AI systems** — efficient infrastructure for embodied intelligence.
 
 Outside research, I build small tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**. I enjoy music, marathon running, and independent travel.
+
+<p align="left">
+  <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-65518F?style=flat&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
+  <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf"><img src="https://img.shields.io/badge/CV-65518F?style=flat&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
+  <a href="https://orcid.org/0009-0000-9695-7373"><img src="https://img.shields.io/badge/ORCID-65518F?style=flat&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
+  <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-65518F?style=flat&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+</p>
 
 ## Projects
 

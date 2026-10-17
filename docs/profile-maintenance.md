@@ -6,9 +6,9 @@ This repository supplies the profile README for [eprogressing](https://github.co
 
 - Keep the Little Prince cover at `assets/hero.svg`.
 - Keep the profile in English, using GitHub's native Markdown typography.
-- Navigation links point to the native About, Projects, Open source, Competition honors, and Contact headings.
-- The header uses the Little Prince cover, an Inter typing greeting, a two-line affiliation, and compact contact badges. Keep the rest of the README in GitHub's native font.
-- The typing greeting uses DenverCoder1/readme-typing-svg with embedded Inter at weight 500 and size 27. Keep the 2400 ms typing duration, 1600 ms pause, transparent background, and light/dark text variants consistent. Verify the service returns embedded font data when changing its font; do not silently substitute system fonts.
+- The cover leads directly into About. Keep the greeting, affiliation, research interests, and personal introduction together in this section.
+- The terminal-style greeting is a local animated SVG at `assets/intro-about-code.svg`, using an explicit system monospace stack at size 18. Its light/dark colors are `#716083` and `#BBAACD`. The animation includes a reduced-motion fallback and does not call an external typing service.
+- Keep the Website, CV, ORCID, and Email badges in one left-aligned row at the end of About, before Projects. The lab link belongs in the affiliation text.
 - Competition honors are text lists grouped by year. Keep the detailed records and evidence links in `AWARDS.md`; exclude school-level awards.
 - Existing award illustrations are retained as archived assets. The README no longer displays the award wall; adding an award does not require generating images.
 - Website, CV, ORCID, email, project, and organization links should point to real, available destinations.
