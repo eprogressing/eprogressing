@@ -2,10 +2,6 @@
   <img src="assets/hero.svg" alt="Hello, I'm Jingming Liang. A Little Prince illustration with a small planet, a rose, and a terminal." width="100%" />
 </p>
 
-<p align="left">
-  <a href="#about">About</a> &nbsp;·&nbsp; <a href="#competition-honors">Honors</a> &nbsp;·&nbsp; <a href="#contact">Contact</a>
-</p>
-
 ## About
 
 <p><img src="assets/intro-about-code.svg" width="320" height="34" alt="Hi, I'm Jingming Liang." /></p>
@@ -14,7 +10,9 @@ I'm a senior undergraduate in Computer Science at **Nankai University**, where I
 
 My research interests focus on **LLM inference systems**, **heterogeneous computing and GPU optimization**, and **embodied intelligence system optimization**.
 
-I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**. I created **[Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver)**, a solver for triangular-maze problems found in online coding assessments at well-known companies. It uses dynamic programming to compute the path that collects the most lights and displays the result interactively. I also contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**.
+I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**, and contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)**.
+
+> I created **[Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver)**, a solver for triangular-maze problems found in online coding assessments at well-known companies. It uses dynamic programming to compute the path that collects the most lights and displays the result interactively.
 
 Outside computing, I enjoy music (violin and guitar), volleyball, marathon running, and independent travel.
 
@@ -27,26 +25,32 @@ Outside computing, I enjoy music (violin and guitar), volleyball, marathon runni
 
 ## Competition honors
 
-**2026**
+### 2026
 
-- **National Third Prize** — Computer System Development Capability Competition — Operating System Design Contest (OS Function Challenge Track).
-- **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup).
-- **Third Prize & Special Contribution Award** — CANN-HCCL Communication Library Innovation Competition.
+| Award | Competition |
+| :--- | :--- |
+| **National Third Prize** | Computer System Development Capability Competition — Operating System Design Contest (OS Function Challenge Track) |
+| **National Third Prize** | Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup) |
+| **Third Prize & Special Contribution Award** | CANN-HCCL Communication Library Innovation Competition |
 
-**2025**
+### 2025
 
-- **Second Place** — TRAE Vibe Coding Workshop.
-- **National Third Prize** — Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup).
-- **Provincial First Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division.
-- **National Third Prize** — 19th Challenge Cup National Undergraduate Extracurricular Academic Science and Technology Works Competition.
-- **National Champion** — 8th CCF-TCARCH Computer Architecture Challenge.
-- **Grand Prize** — Challenge Cup Tianjin Undergraduate Extracurricular Academic Science and Technology Works Competition.
-- **Honorable Mention** — Mathematical Contest in Modeling (MCM).
+| Award | Competition |
+| :--- | :--- |
+| **Second Place** | TRAE Vibe Coding Workshop |
+| **National Third Prize** | Computer System Development Capability Competition — Intelligent Computing Innovation Design Contest (Xiandao Cup) |
+| **Provincial First Prize** | China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division |
+| **National Third Prize** | 19th Challenge Cup National Undergraduate Extracurricular Academic Science and Technology Works Competition |
+| **National Champion** | 8th CCF-TCARCH Computer Architecture Challenge |
+| **Grand Prize** | Challenge Cup Tianjin Undergraduate Extracurricular Academic Science and Technology Works Competition |
+| **Honorable Mention** | Mathematical Contest in Modeling (MCM) |
 
-**2024**
+### 2024
 
-- **Provincial Second Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division.
-- **National First Prize** — 3rd National College Student Data Analysis Popular Science Competition.
+| Award | Competition |
+| :--- | :--- |
+| **Provincial Second Prize** | China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division |
+| **National First Prize** | 3rd National College Student Data Analysis Popular Science Competition |
 
 ## Contact
 
@@ -54,6 +58,6 @@ For research and collaboration, reach me at **[liangjm@nbjl.nankai.edu.cn](mailt
 
 For bugs, questions, or ideas about a project, please open an issue in its repository.
 
----
+<p><img src="assets/orbit-divider.svg" width="100%" height="24" alt="" /></p>
 
 <p align="center"><sub>A little planet of my own.</sub></p>

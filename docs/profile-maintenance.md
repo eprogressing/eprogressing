@@ -6,11 +6,10 @@ This repository supplies the profile README for [eprogressing](https://github.co
 
 - Keep the Little Prince cover at `assets/hero.svg`.
 - Keep the profile in English, using GitHub's native Markdown typography.
-- A compact, left-aligned text navigation row sits below the cover, linking to About, Competition honors, and Contact.
 - The introduction begins in About. Keep the greeting, affiliation, one concise research paragraph, and personal/open-source introduction together in this section.
 - The terminal-style greeting is a local animated SVG at `assets/intro-about-code.svg`, using an explicit system monospace stack at size 18. Its light/dark colors are `#716083` and `#BBAACD`. The animation includes a reduced-motion fallback and does not call an external typing service.
 - Keep the Website, CV, ORCID, and Email badges in one left-aligned row at the end of About, before Competition honors. The lab link belongs in the affiliation text.
-- Competition honors appear immediately after About to foreground technical achievements. They are text lists grouped by year. Keep the detailed records and evidence links in `AWARDS.md`; exclude school-level awards except the explicitly retained TRAE Vibe Coding Workshop second-place result.
+- Competition honors appear immediately after About to foreground technical achievements. They are two-column Award / Competition tables grouped by year. Keep the detailed records and evidence links in `AWARDS.md`; exclude school-level awards except the explicitly retained TRAE Vibe Coding Workshop second-place result.
 - Existing award illustrations are retained as archived assets. The README no longer displays the award wall; adding an award does not require generating images.
 - Website, CV, ORCID, email, project, and organization links should point to real, available destinations.
 - Only add projects, publications, affiliations, and funding links when their details are confirmed. Do not publish placeholders for unreleased projects or unavailable sponsorship accounts.
@@ -44,3 +43,7 @@ When investigating an email, compare its timestamps with the linked activity. Pr
 Use the NBJL personal page and the author-provided presentation as recorded in `AWARDS.md`. Preserve parent competition names, contest tracks, and regional divisions. Do not shorten names merely to fit a visual layout. Keep PhD study explicitly prospective with the expected 2027 start; retain all three research areas from the NBJL personal page.
 
 Keep the open-source introduction in About only. Do not recreate a standalone Open source section or navigation link; Lamplighter Commons and StarryOS / tgoskits are linked in the introductory paragraph.
+
+## Accepted visual layout
+
+Do not add a top navigation row. Keep the cover, terminal greeting, and muted square contact badges. Separate the maze-solver explanation into a short blockquote within About. Show all 12 approved competition entries as Award / Competition tables grouped by year, preserving full names. Contact contains email and issue guidance without repeating Website or CV. Use `assets/orbit-divider.svg` as the subtle animated footer rule, with its reduced-motion fallback.
