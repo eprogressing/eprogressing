@@ -46,8 +46,6 @@ I build tools and share learning resources through **[Lamplighter Commons](https
 - **Provincial Second Prize** — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division.
 - **National First Prize** — 3rd National College Student Data Analysis Popular Science Competition.
 
-[Award details and references](AWARDS.md)
-
 ## Open source
 
 ### Building: [Lamplighter Commons](https://github.com/lamplighter-commons)
