@@ -14,7 +14,7 @@ I build tools and share learning resources through **[Lamplighter Commons](https
 
 > I created **[Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver)**, a solver for triangular-maze problems found in online coding assessments at well-known companies. It uses dynamic programming to compute the path that collects the most lights and displays the result interactively.
 
-Outside computing, I enjoy music (violin and guitar), volleyball, marathon running, and independent travel.
+Outside computing, I play the violin and classical guitar (Grade 10 in both), and enjoy volleyball, marathon running, and independent travel.
 
 <p align="left">
   <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-455F7B?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
