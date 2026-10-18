@@ -14,11 +14,11 @@ I build tools and share learning resources through **[Lamplighter Commons](https
 
 > I created **[Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver)**, a solver for triangular-maze problems found in online coding assessments at well-known companies. It uses dynamic programming to compute the path that collects the most lights and displays the result interactively.
 
-Outside computing, I play the violin and classical guitar (Grade 10 in both), and enjoy volleyball, marathon running, and independent travel.
+Outside computing, I play the violin and classical guitar (Grade 10 in both, China Conservatory of Music), and enjoy volleyball, marathon running, and independent travel.
 
 <p align="left">
   <a href="https://www.jingmingliang2004.com/"><img src="https://img.shields.io/badge/Website-455F7B?style=flat-square&amp;logo=safari&amp;logoColor=white" alt="Website" /></a>
-  <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf"><img src="https://img.shields.io/badge/CV-756080?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
+  <a href="https://www.jingmingliang2004.com/files/jingming-liang-cv.pdf?v=public-20261018"><img src="https://img.shields.io/badge/CV-756080?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" alt="CV" /></a>
   <a href="https://orcid.org/0009-0000-9695-7373"><img src="https://img.shields.io/badge/ORCID-5B7C2F?style=flat-square&amp;logo=orcid&amp;logoColor=white" alt="ORCID" /></a>
   <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-8A5D63?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
