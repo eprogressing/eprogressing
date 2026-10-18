@@ -8,10 +8,10 @@
     .intro-reveal { animation:intro-type 9s steps(22,end) infinite; }
     .mbti-reveal { animation:mbti-type 9s steps(10,end) infinite; }
     .caret { fill:#287B78; animation:caret 9s step-end infinite; }
-    @keyframes intro-type { 0%,4% { width:0; } 32%,94% { width:246px; } 100% { width:0; } }
-    @keyframes mbti-type { 0%,38% { width:0; } 61%,94% { width:120px; } 100% { width:0; } }
-    @keyframes separator { 0% { opacity:0; } 38%,94% { opacity:1; } 95%,100% { opacity:0; } }
-    @keyframes caret { 0%,60% { opacity:0; } 61%,71%,81%,91% { opacity:1; } 66%,76%,86%,95%,100% { opacity:0; } }
+    @keyframes intro-type { 0%,4% { width:0; } 32%,98% { width:246px; } 100% { width:0; } }
+    @keyframes mbti-type { 0%,38% { width:0; } 61%,92% { width:120px; } 96%,100% { width:0; } }
+    @keyframes separator { 0% { opacity:0; } 38%,95% { opacity:1; } 96%,100% { opacity:0; } }
+    @keyframes caret { 0%,60% { opacity:0; } 61%,71%,81%,91% { opacity:1; } 66%,76%,86%,93%,100% { opacity:0; } }
     @media (prefers-color-scheme:dark) { .intro { fill:#BBAACD; } .mbti,.caret { fill:#7AC9BD; } .separator { fill:#7C8BA0; } }
     @media (prefers-reduced-motion:reduce) { .intro-reveal { animation:none; width:246px; } .mbti-reveal { animation:none; width:120px; } .separator { animation:none; opacity:1; } .caret { animation:none; opacity:0; } }
   </style>
