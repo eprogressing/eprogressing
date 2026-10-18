@@ -4,7 +4,7 @@
 
 ## About
 
-<p><img src="assets/intro-about-code.svg?v=intj-20261018" width="400" height="34" alt="Hi, I'm Jingming Liang. MBTI: INTJ." /></p>
+<p><img src="assets/intro-about-code.svg?v=intj-20261018-2" width="400" height="34" alt="Hi, I'm Jingming Liang. MBTI: INTJ." /></p>
 
 I'm a senior undergraduate in Computer Science at **Nankai University**, where I expect to begin my PhD in **2027** with the **[Nankai–Baidu Joint Laboratory (NBJL)](https://nbjl.nankai.edu.cn/)**.
 
