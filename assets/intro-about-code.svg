@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="34" viewBox="0 0 320 34"><style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:18px;font-weight:400;font-style:normal;fill:#716083}.reveal{animation:type 7s steps(28,end) infinite}@keyframes type{0%,5%{width:0}40%,90%{width:310px}100%{width:0}}@media(prefers-color-scheme:dark){text{fill:#BBAACD}}@media(prefers-reduced-motion:reduce){.reveal{animation:none;width:310px}}</style><defs><clipPath id="reveal"><rect class="reveal" width="310" height="34"/></clipPath></defs><text x="0" y="25" clip-path="url(#reveal)">Hi, I'm Jingming Liang.</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="34" viewBox="0 0 400 34" role="img" aria-labelledby="intro-title">
+  <title id="intro-title">Hi, I'm Jingming Liang. MBTI: INTJ.</title>
+  <style>
+    text { font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:18px; font-weight:400; font-style:normal; }
+    .intro { fill:#716083; }
+    .mbti { fill:#287B78; }
+    .separator { fill:#94A3B8; animation:separator 9s step-end infinite; }
+    .intro-reveal { animation:intro-type 9s steps(22,end) infinite; }
+    .mbti-reveal { animation:mbti-type 9s steps(10,end) infinite; }
+    .caret { fill:#287B78; animation:caret 9s step-end infinite; }
+    @keyframes intro-type { 0%,4% { width:0; } 32%,94% { width:246px; } 100% { width:0; } }
+    @keyframes mbti-type { 0%,38% { width:0; } 61%,94% { width:120px; } 100% { width:0; } }
+    @keyframes separator { 0% { opacity:0; } 38%,94% { opacity:1; } 95%,100% { opacity:0; } }
+    @keyframes caret { 0%,60% { opacity:0; } 61%,71%,81%,91% { opacity:1; } 66%,76%,86%,95%,100% { opacity:0; } }
+    @media (prefers-color-scheme:dark) { .intro { fill:#BBAACD; } .mbti,.caret { fill:#7AC9BD; } .separator { fill:#7C8BA0; } }
+    @media (prefers-reduced-motion:reduce) { .intro-reveal { animation:none; width:246px; } .mbti-reveal { animation:none; width:120px; } .separator { animation:none; opacity:1; } .caret { animation:none; opacity:0; } }
+  </style>
+  <defs>
+    <clipPath id="intro-reveal"><rect class="intro-reveal" width="246" height="34"/></clipPath>
+    <clipPath id="mbti-reveal"><rect class="mbti-reveal" width="120" height="34"/></clipPath>
+  </defs>
+  <text class="intro" x="0" y="25" clip-path="url(#intro-reveal)">Hi, I'm Jingming Liang</text>
+  <circle class="separator" cx="253" cy="19" r="1.6"/>
+  <g transform="translate(270 0)">
+    <text class="mbti" x="0" y="25" clip-path="url(#mbti-reveal)">MBTI: INTJ</text>
+  </g>
+  <rect class="caret" x="387" y="10" width="1.5" height="18"/>
+</svg>
