@@ -12,7 +12,7 @@ My research interests focus on **LLM inference systems**, **heterogeneous comput
 
 I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**, and contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)** ([merged contributions](https://github.com/rcore-os/tgoskits/pulls?q=is%3Apr+author%3Aeprogressing+is%3Amerged)).
 
-> I created **[Triangle Light Maze Solver](https://github.com/lamplighter-commons/triangle-light-maze-solver)**, a solver for triangular-maze problems found in online coding assessments at well-known companies. It uses dynamic programming to compute the path that collects the most lights and displays the result interactively.
+> I created **[Triangle Light Maze Solver](https://github.com/eprogressing/triangle-light-maze-solver)**, a solver for triangular-maze problems found in online coding assessments at well-known companies. It uses dynamic programming to compute the path that collects the most lights and displays the result interactively.
 
 Outside computing, I play the violin and classical guitar, with Grade 10 certifications in both from the China Conservatory of Music. I also enjoy volleyball, marathon running, and independent travel.
 
