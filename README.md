@@ -28,8 +28,8 @@ Outside computing, I play the violin and classical guitar, with Grade 10 certifi
 <p>
   <a href="https://www.antgroup.com/">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/experience-ant-compact.svg" />
-      <img src="assets/experience-ant-wide.svg" width="100%" alt="Ant Group — Research Intern, Knowledge &amp; Memory Engine. Nov. 2026–Present, Hangzhou. Research focus: distributed RAG execution and LLM inference optimization." />
+      <source media="(max-width: 600px)" srcset="assets/experience-ant-compact-small.svg" />
+      <img src="assets/experience-ant-wide-small.svg" width="100%" alt="Ant Group — Research Intern, Knowledge &amp; Memory Engine. Nov. 2026–Present, Hangzhou. Research focus: distributed RAG execution and LLM inference optimization." />
     </picture>
   </a>
 </p>
@@ -62,8 +62,8 @@ Outside computing, I play the violin and classical guitar, with Grade 10 certifi
 <p>
   <a href="https://www.um.edu.mo/">
     <picture>
-      <source media="(max-width: 600px)" srcset="assets/admission-macau-compact.svg" />
-      <img src="assets/admission-macau-wide.svg" width="100%" alt="University of Macau — Exchange admission, Faculty of Science and Technology, Computer and Information Science. Admission offer received." />
+      <source media="(max-width: 600px)" srcset="assets/admission-macau-compact-small.svg" />
+      <img src="assets/admission-macau-wide-small.svg" width="100%" alt="University of Macau — Exchange admission, Faculty of Science and Technology, Computer and Information Science. Admission offer received." />
     </picture>
   </a>
 </p>
