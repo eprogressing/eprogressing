@@ -26,13 +26,13 @@ Outside computing, I play the violin and classical guitar, with Grade 10 certifi
 ## Experience
 
 <p>
-  <a href="https://www.antgroup.com/"><img align="left" src="https://avatars.githubusercontent.com/u/37703784?s=200&amp;v=4" width="88" height="88" alt="Ant Group logo" /></a>
-  <strong><a href="https://www.antgroup.com/">Ant Group</a></strong> · Hangzhou, China<br />
-  <strong>Research Intern</strong> · Nov. 2026 – Present<br />
-  Knowledge &amp; Memory Engine<br />
-  Distributed RAG execution and LLM inference optimization.
+  <a href="https://www.antgroup.com/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/experience-ant-compact.svg" />
+      <img src="assets/experience-ant-wide.svg" width="720" alt="Ant Group — Research Intern, Knowledge &amp; Memory Engine. Nov. 2026–Present, Hangzhou. Research focus: distributed RAG execution and LLM inference optimization." />
+    </picture>
+  </a>
 </p>
-<br clear="left" />
 
 ## Competition honors
 
