@@ -23,15 +23,6 @@ Outside computing, I play the violin and classical guitar, with Grade 10 certifi
   <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-8A5D63?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
-## Education
-
-**Nankai University**  
-Computer Science and Technology · Sep. 2023 – Jun. 2027 (expected)
-
-**University of Macau — Exchange admission**  
-Faculty of Science and Technology · Computer and Information Science  
-Admission offer received; exchange not attended.
-
 ## Experience
 
 <p>
@@ -65,6 +56,17 @@ Admission offer received; exchange not attended.
 
 - <picture><source media="(max-width: 600px)" srcset="assets/honor-2024-8-compact.svg" /><img src="assets/honor-2024-8-wide.svg" width="720" align="top" alt="Provincial Second Prize — China Undergraduate Mathematical Contest in Modeling (CUMCM), Tianjin Division. (Team captain)" /></picture>
 - <picture><source media="(max-width: 600px)" srcset="assets/honor-2024-9-compact.svg" /><img src="assets/honor-2024-9-wide.svg" width="720" align="top" alt="National First Prize — 3rd National College Student Data Analysis Popular Science Competition. (Solo entry)" /></picture>
+
+## Exchange admission
+
+<p>
+  <a href="https://www.um.edu.mo/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="assets/admission-macau-compact.svg" />
+      <img src="assets/admission-macau-wide.svg" width="100%" alt="University of Macau — Exchange admission, Faculty of Science and Technology, Computer and Information Science. Offer received; exchange not attended." />
+    </picture>
+  </a>
+</p>
 
 ## Contact
 
