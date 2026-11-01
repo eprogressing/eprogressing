@@ -23,6 +23,23 @@ Outside computing, I play the violin and classical guitar, with Grade 10 certifi
   <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-8A5D63?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
+## Experience
+
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://www.antgroup.com/"><img src="https://avatars.githubusercontent.com/u/37703784?s=200&amp;v=4" width="88" height="88" alt="Ant Group logo" /></a>
+    </td>
+    <td valign="middle">
+      <strong><a href="https://www.antgroup.com/">Ant Group · 蚂蚁集团</a></strong><br />
+      <strong>Research Intern · 研究型实习生</strong><br />
+      <sub>Nov. 2026 – Present · Hangzhou, China</sub><br /><br />
+      平台技术事业群 · 数智引擎技术部 · 知识与记忆引擎部<br />
+      Research focus: distributed RAG execution and LLM inference optimization.
+    </td>
+  </tr>
+</table>
+
 ## Competition honors
 
 **2026**
