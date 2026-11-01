@@ -63,7 +63,7 @@ Outside computing, I play the violin and classical guitar, with Grade 10 certifi
   <a href="https://www.um.edu.mo/">
     <picture>
       <source media="(max-width: 600px)" srcset="assets/admission-macau-compact.svg" />
-      <img src="assets/admission-macau-wide.svg" width="100%" alt="University of Macau — Exchange admission, Faculty of Science and Technology, Computer and Information Science. Offer received; exchange not attended." />
+      <img src="assets/admission-macau-wide.svg" width="100%" alt="University of Macau — Exchange admission, Faculty of Science and Technology, Computer and Information Science. Admission offer received." />
     </picture>
   </a>
 </p>
