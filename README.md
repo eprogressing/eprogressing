@@ -8,7 +8,7 @@
 
 I'm a senior undergraduate in Computer Science at **Nankai University**, where I expect to begin my PhD in **2027** with the **[Nankai–Baidu Joint Laboratory (NBJL)](https://nbjl.nankai.edu.cn/)**.
 
-My research interests focus on **LLM inference systems**, **heterogeneous computing and GPU optimization**, and **embodied intelligence system optimization**.
+My research interests focus on **LLM inference systems**, **LLM memory mechanisms and internalization**, **heterogeneous computing and GPU optimization**, and **embodied intelligence system optimization**.
 
 I build tools and share learning resources through **[Lamplighter Commons](https://github.com/lamplighter-commons)**, and contribute to **[StarryOS / tgoskits](https://github.com/rcore-os/tgoskits)** ([merged contributions](https://github.com/rcore-os/tgoskits/pulls?q=is%3Apr+author%3Aeprogressing+is%3Amerged)).
 
