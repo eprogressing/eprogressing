@@ -23,13 +23,22 @@ Outside computing, I play the violin and classical guitar, with Grade 10 certifi
   <a href="mailto:liangjm@nbjl.nankai.edu.cn"><img src="https://img.shields.io/badge/Email-8A5D63?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
+## Education
+
+**Nankai University**  
+Computer Science and Technology · Sep. 2023 – Jun. 2027 (expected)
+
+**University of Macau — Exchange admission**  
+Faculty of Science and Technology · Computer and Information Science  
+Admission offer received; exchange not attended.
+
 ## Experience
 
 <p>
   <a href="https://www.antgroup.com/">
     <picture>
       <source media="(max-width: 600px)" srcset="assets/experience-ant-compact.svg" />
-      <img src="assets/experience-ant-wide.svg" width="720" alt="Ant Group — Research Intern, Knowledge &amp; Memory Engine. Nov. 2026–Present, Hangzhou. Research focus: distributed RAG execution and LLM inference optimization." />
+      <img src="assets/experience-ant-wide.svg" width="100%" alt="Ant Group — Research Intern, Knowledge &amp; Memory Engine. Nov. 2026–Present, Hangzhou. Research focus: distributed RAG execution and LLM inference optimization." />
     </picture>
   </a>
 </p>
